@@ -1,0 +1,2705 @@
+{
+    "features":[
+        {
+            "geometry":{
+                "coordinates":[
+                    5205486.9532,
+                    2840711.0259
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0631\u064a\u0627\u0636 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Ar Riyad",
+                "Place_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Place_EN":"AR RIYAD",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4433845.3772,
+                    2443808.6011
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629 (\u0645\u0642\u0631 \u0627\u0644\u0625\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Makkah Al Mukarramah",
+                "Place_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Place_EN":"MAKKAH al MUKARRAMAH",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4361159.8845,
+                    2461695.3429
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062c\u062f\u0629",
+                "Governorate_EN":"Jiddah",
+                "Place_AR":"\u062c\u062f\u0629",
+                "Place_EN":"Jeddah",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4410307.692,
+                    2810611.4007
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Al Madinah Al Munawwarah",
+                "Place_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Place_EN":"AL MADINAH al MUNAWWARAH",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5573516.7065,
+                    3049983.0223
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0645\u0627\u0645",
+                "Governorate_EN":"Dammam",
+                "Place_AR":"\u0627\u0644\u062f\u0645\u0627\u0645",
+                "Place_EN":"Ad Dammam",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4498511.5319,
+                    2424084.7883
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0637\u0627\u0626\u0641",
+                "Governorate_EN":"Al Taif",
+                "Place_AR":"\u0627\u0644\u0637\u0627\u0626\u0641",
+                "Place_EN":"At Ta\u02bcif",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5520220.099,
+                    2920357.8593
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0627\u062d\u0633\u0627\u0621",
+                "Governorate_EN":"Al Ahsa",
+                "Place_AR":"\u0627\u0644\u0647\u0641\u0648\u0641",
+                "Place_EN":"Al Hufuf",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5588026.8813,
+                    3039303.1889
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062e\u0628\u0631",
+                "Governorate_EN":"Al Khubar",
+                "Place_AR":"\u0627\u0644\u062e\u0628\u0631",
+                "Place_EN":"Al Khubar",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5525785.8469,
+                    3119821.8632
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062c\u0628\u064a\u0644",
+                "Governorate_EN":"Al Jubayl",
+                "Place_AR":"\u0627\u0644\u062c\u0628\u064a\u0644",
+                "Place_EN":"Al Jubayl",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5183896.9411,
+                    2844626.041
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0631\u0639\u064a\u0647",
+                "Governorate_EN":"Ad Diriyah",
+                "Place_AR":"\u0627\u0644\u062f\u0631\u0639\u064a\u0629",
+                "Place_EN":"Ad Dir\u02bbiyyah",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5566468.7408,
+                    3069172.696
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0637\u064a\u0641",
+                "Governorate_EN":"Al Qatif",
+                "Place_AR":"\u0627\u0644\u0642\u0637\u064a\u0641",
+                "Place_EN":"Al Qatif",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4893329.0693,
+                    3042333.0513
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u0631\u064a\u062f\u0647 (\u0645\u0642\u0631\u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Buraydah",
+                "Place_AR":"\u0628\u0631\u064a\u062f\u0629",
+                "Place_EN":"BURAYDAH",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5580089.6818,
+                    3036466.0007
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0645\u0627\u0645",
+                "Governorate_EN":"Dammam",
+                "Place_AR":"\u0627\u0644\u0638\u0647\u0631\u0627\u0646",
+                "Place_EN":"AD\u035fh D\u035fhahran",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4070504.2294,
+                    3298515.9873
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062a\u0628\u0648\u0643 (\u0645\u0642\u0631\u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Tabuk",
+                "Place_AR":"\u062a\u0628\u0648\u0643",
+                "Place_EN":"TABUK",
+                "Region_AR":"\u062a\u0628\u0648\u0643",
+                "Region_EN":"Tabuk"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4641719.4697,
+                    3187741.3432
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062d\u0627\u0626\u0644(\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Hail",
+                "Place_AR":"\u062d\u0627\u0626\u0644",
+                "Place_EN":"HA\u02bcIL",
+                "Region_AR":"\u062d\u0627\u0626\u0644",
+                "Region_EN":"Hail"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4239031.3485,
+                    2765571.7442
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u064a\u0646\u0628\u0639",
+                "Governorate_EN":"Yanbu",
+                "Place_AR":"\u064a\u0646\u0628\u0639",
+                "Place_EN":"Yanbu\u02bb",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4403310.361,
+                    2445480.337
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u062d\u0631\u0629",
+                "Governorate_EN":" Bahrah",
+                "Place_AR":"\u062d\u062f\u0629",
+                "Place_EN":"Hadda",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4734909.7855,
+                    1964484.0392
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u064a\u0634",
+                "Governorate_EN":"Baysh",
+                "Place_AR":"\u0628\u064a\u0634",
+                "Place_EN":"Baysh",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4464501.3196,
+                    3669634.1385
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0639\u0631\u0639\u0631 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Arar",
+                "Place_AR":"\u062d\u0632\u0645 \u0627\u0644\u062c\u0644\u0627\u0645\u064a\u062f",
+                "Place_EN":"Hazm al Jalamid",
+                "Region_AR":"\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647",
+                "Region_EN":"Northern Borders"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5528877.351,
+                    2990872.815
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u0642\u064a\u0642",
+                "Governorate_EN":"Buqayq",
+                "Place_AR":"\u0628\u0642\u064a\u0642",
+                "Place_EN":"Buqayq",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4985221.8716,
+                    2328754.7616
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0648\u0627\u062f\u0649 \u0627\u0644\u062f\u0648\u0627\u0633\u0631",
+                "Governorate_EN":"Wadi Ad Dawasir",
+                "Place_AR":"\u0648\u0627\u062f\u064a \u0627\u0644\u062f\u0648\u0627\u0633\u0631",
+                "Place_EN":"Wadi Ad Dawasir",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5304536.3173,
+                    2737316.1869
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062e\u0631\u062c",
+                "Governorate_EN":"Al Kharj",
+                "Place_AR":"\u0627\u0644\u062e\u0631\u062c",
+                "Place_EN":"Al Kharj",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4375105.6433,
+                    2528042.2165
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062e\u0644\u064a\u0635",
+                "Governorate_EN":"Khulays",
+                "Place_AR":"\u062e\u0644\u064a\u0635",
+                "Place_EN":"Khulays",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    3972881.434,
+                    3168275.7778
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0636\u0628\u0627\u0621",
+                "Governorate_EN":"Duba",
+                "Place_AR":"\u0636\u0628\u0627",
+                "Place_EN":"Duba",
+                "Region_AR":"\u062a\u0628\u0648\u0643",
+                "Region_EN":"Tabuk"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4613385.5553,
+                    3677410.9073
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0639\u0631\u0639\u0631 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Arar",
+                "Place_AR":"\u062c\u062f\u064a\u062f\u0629 \u0639\u0631\u0639\u0631",
+                "Place_EN":"Judayyidat \u02bbar\u02bbar",
+                "Region_AR":"\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647",
+                "Region_EN":"Northern Borders"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5574040.7322,
+                    3086880.3185
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0631\u0623\u0633 \u062a\u0646\u0648\u0631\u0647",
+                "Governorate_EN":"Ras Tannurah",
+                "Place_AR":"\u0631\u0627\u0633 \u062a\u0646\u0648\u0631\u0629",
+                "Place_EN":"Ras Tannurah",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4755788.545,
+                    2073936.6541
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062e\u0645\u064a\u0633  \u0645\u0634\u064a\u0637",
+                "Governorate_EN":"Khamis Mushayt",
+                "Place_AR":"\u062e\u0645\u064a\u0633 \u0645\u0634\u064a\u0637",
+                "Place_EN":"Khamis Mushayt",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4483594.184251,
+                    2434706.766767
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0637\u0627\u0626\u0641",
+                "Governorate_EN":"Al Taif",
+                "Place_AR":"\u0627\u0644\u0647\u062f\u0627",
+                "Place_EN":"Al Hada",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5560932.6789,
+                    3079870.5702
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0637\u064a\u0641",
+                "Governorate_EN":"Al Qatif",
+                "Place_AR":"\u0635\u0641\u0648\u0649",
+                "Place_EN":"Safwa\u0301",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5244856.9251,
+                    1977723.5137
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0634\u0631\u0648\u0631\u0647",
+                "Governorate_EN":"Sharurah",
+                "Place_AR":"\u0634\u0631\u0648\u0631\u0629",
+                "Place_EN":"Sharurah",
+                "Region_AR":"\u0646\u062c\u0631\u0627\u0646",
+                "Region_EN":"Najran"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4918699.3577,
+                    1986444.4544
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0646\u062c\u0631\u0627\u0646 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Najran",
+                "Place_AR":"\u0646\u062c\u0631\u0627\u0646",
+                "Place_EN":"NAJRAN",
+                "Region_AR":"\u0646\u062c\u0631\u0627\u0646",
+                "Region_EN":"Najran"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4680980.704,
+                    2101662.8258
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0645\u062d\u0627\u064a\u0644",
+                "Governorate_EN":"Muhayil",
+                "Place_AR":"\u0645\u062d\u0627\u064a\u0644",
+                "Place_EN":"Mahayil",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4897106.7617,
+                    3010224.7819
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0639\u0646\u064a\u0632\u0647",
+                "Governorate_EN":"Unayzah",
+                "Place_AR":"\u0639\u0646\u064a\u0632\u0629",
+                "Place_EN":"\u02bbUnayzah",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4543053.054,
+                    2385922.3913
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0645\u064a\u0633\u0627\u0646",
+                "Governorate_EN":"Maysan",
+                "Place_AR":"\u0627\u0644\u0633\u062d\u0646",
+                "Place_EN":"Al Sehen",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4742808.8685,
+                    2274245.7845
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u064a\u0634\u0647",
+                "Governorate_EN":"Bishah",
+                "Place_AR":"\u0628\u064a\u0634\u0629",
+                "Place_EN":"Bishah",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4604319.76477,
+                    2301788.245867
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0631\u0649",
+                "Governorate_EN":"Al Qara",
+                "Place_AR":"\u0627\u0644\u0642\u0631\u0649",
+                "Place_EN":"Al Qara",
+                "Region_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Region_EN":"Al Bahah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4148250.8076,
+                    2880427.3566
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0645\u0644\u062c",
+                "Governorate_EN":"Umluj",
+                "Place_AR":"\u0623\u0645\u0644\u062c",
+                "Place_EN":"Umlujj",
+                "Region_AR":"\u062a\u0628\u0648\u0643",
+                "Region_EN":"Tabuk"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5116976.0823,
+                    3304066.8006
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062d\u0641\u0631 \u0627\u0644\u0628\u0627\u0637\u0646",
+                "Governorate_EN":"Hafar Al Batin",
+                "Place_AR":"\u062d\u0641\u0631 \u0627\u0644\u0628\u0627\u0637\u0646",
+                "Place_EN":"Hafar al Batin",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4573822.8794,
+                    2170121.0355
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0646\u0641\u0630\u0647",
+                "Governorate_EN":"Al Qunfudhah",
+                "Place_AR":"\u0627\u0644\u0642\u0646\u0641\u0630\u0629",
+                "Place_EN":"Al Qunfudhah",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5396776.2596,
+                    3182399.3765
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0646\u0639\u064a\u0631\u064a\u0647",
+                "Governorate_EN":"Al Nuayriyah",
+                "Place_AR":"\u0627\u0644\u0646\u0639\u064a\u0631\u064a\u0629",
+                "Place_EN":"An Nu\u02bbayriyyah",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5535011.853554,
+                    2922170.149719
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0627\u062d\u0633\u0627\u0621",
+                "Governorate_EN":"Al Ahsa",
+                "Place_AR":"\u0627\u0644\u062c\u0641\u0631",
+                "Place_EN":"Al Jafr",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4566753.7791,
+                    3629883.8138
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0639\u0631\u0639\u0631 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Arar",
+                "Place_AR":"\u0639\u0631\u0639\u0631",
+                "Place_EN":"\u02bbAR\u02bbAR",
+                "Region_AR":"\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647",
+                "Region_EN":"Northern Borders"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5037718.7937,
+                    2905654.3394
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0634\u0642\u0631\u0627\u0621",
+                "Governorate_EN":"Shaqra",
+                "Place_AR":"\u0634\u0642\u0631\u0627\u0621",
+                "Place_EN":"Shaqra\u02bc",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5217303.2798,
+                    2691933.368
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062d\u0648\u0637\u0647 \u0628\u0646\u0649 \u062a\u0645\u064a\u0645",
+                "Governorate_EN":"Hawtat Bani Tamim",
+                "Place_AR":"\u062d\u0648\u0637\u0629 \u0628\u0646\u064a \u062a\u0645\u064a\u0645",
+                "Place_EN":"Hawtat Bani Tamim",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5152480.2832,
+                    2811679.9277
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u0632\u0627\u062d\u0645\u064a\u0647",
+                "Governorate_EN":"Al Muzahimiyah",
+                "Place_AR":"\u0627\u0644\u0645\u0632\u0627\u062d\u0645\u064a\u0629",
+                "Place_EN":"Al Muzahimiyyah",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4732680.1537,
+                    2063115.9673
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0628\u0647\u0627 (\u0645\u0642\u0631 \u0627\u0644\u0625\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Abha",
+                "Place_AR":"\u0623\u0628\u0647\u0627",
+                "Place_EN":"ABHA",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5047817.7317,
+                    2988048.715
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u062c\u0645\u0639\u0647",
+                "Governorate_EN":"Al Majmaah",
+                "Place_AR":"\u0627\u0644\u0645\u062c\u0645\u0639\u0629",
+                "Place_EN":"Al Majma\u02bbah",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4572105.2158,
+                    2327997.8879
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0645\u064a\u0633\u0627\u0646",
+                "Governorate_EN":"Maysan",
+                "Place_AR":"\u0627\u0644\u0642\u0631\u064a\u0639",
+                "Place_EN":"Al Qari'",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4859570.2964,
+                    3016433.6927
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0628\u0643\u064a\u0631\u064a\u0647",
+                "Governorate_EN":"Al Bukayriyah",
+                "Place_AR":"\u0627\u0644\u0628\u0643\u064a\u0631\u064a\u0629",
+                "Place_EN":"Al Bukayriyyah",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4598668.663,
+                    2152068.5029
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0646\u0641\u0630\u0647",
+                "Governorate_EN":"Al Qunfudhah",
+                "Place_AR":"\u0627\u0644\u0642\u0648\u0632",
+                "Place_EN":"Al Gouz",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4603045.3562,
+                    2585444.5224
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u0648\u064a\u0647",
+                "Governorate_EN":"Al Muwayh",
+                "Place_AR":"\u0623\u0645 \u0627\u0644\u062f\u0648\u0645",
+                "Place_EN":"Umm Ad Dawm",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5065536.3607,
+                    2698662.1478
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0631\u064a\u0646",
+                "Governorate_EN":"Ar Rayn",
+                "Place_AR":"\u0627\u0644\u0631\u064a\u0646",
+                "Place_EN":"Ar Rayn",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5040815.9042,
+                    2763243.6017
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0647",
+                "Governorate_EN":"Al Quwayiyah",
+                "Place_AR":"\u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0629",
+                "Place_EN":"Al Quway\u02bbiyyah",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5396380.7232,
+                    3302587.126
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062e\u0641\u062c\u064a",
+                "Governorate_EN":"Al Khafji",
+                "Place_AR":"\u0627\u0644\u062e\u0641\u062c\u064a",
+                "Place_EN":"Al Khafji",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4922228.7869,
+                    2981169.9022
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u0630\u0646\u0628",
+                "Governorate_EN":"Al Midhnab",
+                "Place_AR":"\u0627\u0644\u0645\u0630\u0646\u0628",
+                "Place_EN":"Al Midhnab",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4773615.7158,
+                    2051045.7532
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u062d\u062f \u0631\u0641\u064a\u062f\u0647",
+                "Governorate_EN":"Ahad Rufaydah",
+                "Place_AR":"\u0623\u062d\u062f \u0631\u0641\u064a\u062f\u0629",
+                "Place_EN":"Ahad Rifaydah",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4616308.2296,
+                    2274076.8434
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0628\u0627\u062d\u0629 (\u0645\u0642\u0631\u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Al Bahah",
+                "Place_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Place_EN":"AL BAHAH",
+                "Region_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Region_EN":"Al Bahah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4678596.949,
+                    2500575.5712
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062e\u0631\u0645\u0629",
+                "Governorate_EN":"Al Khurmah",
+                "Place_AR":"\u0627\u0644\u062e\u0631\u0645\u0629",
+                "Place_EN":"Al Khurmah",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4551205.3849,
+                    2692618.1833
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u0647\u062f",
+                "Governorate_EN":"Al Mahd",
+                "Place_AR":"\u0645\u0647\u062f \u0627\u0644\u0630\u0647\u0628",
+                "Place_EN":"Mihd  adh Dhahab",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4637418.0962,
+                    2305921.4589
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u0642\u064a\u0642",
+                "Governorate_EN":"Al Aqiq",
+                "Place_AR":"\u0627\u0644\u0639\u0642\u064a\u0642",
+                "Place_EN":"Al \u02bbAqiq",
+                "Region_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Region_EN":"Al Bahah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5247321.0695,
+                    2752444.3617
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0644\u0645",
+                "Governorate_EN":"Ad Dilam",
+                "Place_AR":"\u0627\u0644\u062f\u0644\u0645",
+                "Place_EN":"Ad Dilam",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4638681.1395,
+                    2222787.7779
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u0631\u0636\u064a\u0627\u062a",
+                "Governorate_EN":"Al Ardiyat",
+                "Place_AR":"\u0646\u0645\u0631\u0629",
+                "Place_EN":"Numarah",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4694472.3271,
+                    2598690.6294
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u0648\u064a\u0647",
+                "Governorate_EN":"Al Muwayh",
+                "Place_AR":"\u0638\u0644\u0645",
+                "Place_EN":"D\u035fhalm",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4670960.4486,
+                    2221201.9598
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u0627\u0644\u0642\u0631\u0646",
+                "Governorate_EN":"Balqarn",
+                "Place_AR":"\u0633\u0628\u062a \u0627\u0644\u0639\u0644\u0627\u064a\u0629",
+                "Place_EN":"Sabt al \u02bbAlayah",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4749614.7404,
+                    1934418.4894
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0635\u0628\u064a\u0627\u0621",
+                "Governorate_EN":"Sabya",
+                "Place_AR":"\u0635\u0628\u064a\u0627",
+                "Place_EN":"Sabya",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5078050.4229,
+                    2949626.7863
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u062c\u0645\u0639\u0647",
+                "Governorate_EN":"Al Majmaah",
+                "Place_AR":"\u062d\u0648\u0637\u0629 \u0633\u062f\u064a\u0631",
+                "Place_EN":"Hawtat Sudayr",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4345697.1812,
+                    2608989.9663
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0631\u0627\u0628\u063a",
+                "Governorate_EN":"Rabigh",
+                "Place_AR":"\u0631\u0627\u0628\u063a",
+                "Place_EN":"Rabigh",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5105221.5506,
+                    2910562.9558
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062b\u0627\u062f\u0642",
+                "Governorate_EN":"Thadiq",
+                "Place_AR":"\u062b\u0627\u062f\u0642",
+                "Place_EN":"Thadiq",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4484881.8381,
+                    2291431.882
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0644\u064a\u062b",
+                "Governorate_EN":"Al Lith",
+                "Place_AR":"\u0627\u0644\u0644\u064a\u062b",
+                "Place_EN":"Al Lith",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4569781.9909,
+                    2218403.0917
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0646\u0641\u0630\u0647",
+                "Governorate_EN":"Al Qunfudhah",
+                "Place_AR":"\u0627\u0644\u0645\u0638\u064a\u0644\u0641",
+                "Place_EN":"Al Mud\u035fhaylif",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4982631.2505,
+                    2724406.1682
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0647",
+                "Governorate_EN":"Al Quwayiyah",
+                "Place_AR":"\u0627\u0644\u0631\u0648\u064a\u0636\u0629",
+                "Place_EN":"Ar Ruwaydah",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4736287.3006,
+                    1908655.8198
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062c\u0627\u0632\u0627\u0646 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Jazan",
+                "Place_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Place_EN":"JAZAN",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5074069.1903,
+                    2329753.3546
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0633\u0644\u064a\u0644",
+                "Governorate_EN":"As Sulayyil",
+                "Place_AR":"\u0627\u0644\u0633\u0644\u064a\u0644",
+                "Place_EN":"As Sulayyil",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5201107.2514,
+                    2546669.443
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0627\u0641\u0644\u0627\u062c",
+                "Governorate_EN":"Al Aflaj",
+                "Place_AR":"\u0644\u064a\u0644\u0649",
+                "Place_EN":"Layla\u0301",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4666631.9437,
+                    2170455.8058
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u062c\u0627\u0631\u062f\u0647",
+                "Governorate_EN":"Al Majardah",
+                "Place_AR":"\u0627\u0644\u0645\u062c\u0627\u0631\u062f\u0629",
+                "Place_EN":"Al Majardah",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4780452.8027,
+                    1874057.6059
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0635\u0627\u0645\u0637\u0629",
+                "Governorate_EN":"Samtah",
+                "Place_AR":"\u0635\u0627\u0645\u0637\u0629",
+                "Place_EN":"Samtah",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5652489.9906,
+                    2840672.1142
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u062f\u064a\u062f",
+                "Governorate_EN":"Al Udayd",
+                "Place_AR":"\u0633\u0644\u0648\u0649",
+                "Place_EN":"Salwa\u0301",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4657125.4814,
+                    2207714.5431
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u0631\u0636\u064a\u0627\u062a",
+                "Governorate_EN":"Al Ardiyat",
+                "Place_AR":"\u062b\u0631\u064a\u0628\u0627\u0646",
+                "Place_EN":"Thurayban",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4796190.1539,
+                    1925326.0833
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u0627\u0631\u0636\u0647",
+                "Governorate_EN":"Al Aridah",
+                "Place_AR":"\u0627\u0644\u0639\u0627\u0631\u0636\u0629",
+                "Place_EN":"Al \u02bbAridah",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4474670.9432,
+                    3497759.6955
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0633\u0643\u0627\u0643\u0627 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Sakaka",
+                "Place_AR":"\u0633\u0643\u0627\u0643\u0627",
+                "Place_EN":"SIKAKA",
+                "Region_AR":"\u0627\u0644\u062c\u0648\u0641",
+                "Region_EN":"Al Jawf"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4940948.2013,
+                    2815191.5754
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0648\u0627\u062f\u0645\u0649",
+                "Governorate_EN":"Ad Duwadimi",
+                "Place_AR":"\u0627\u0644\u062f\u0648\u0627\u062f\u0645\u064a",
+                "Place_EN":"Ad Duwadimi",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4131936.1662,
+                    3699614.266
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0631\u064a\u0627\u062a",
+                "Governorate_EN":"Al Qurayyat",
+                "Place_AR":"\u0645\u0631\u0643\u0632 \u062d\u062f\u0648\u062f \u0627\u0644\u062d\u062f\u064a\u062b\u0629",
+                "Place_EN":"Al Hadithah Border Station",
+                "Region_AR":"\u0627\u0644\u062c\u0648\u0641",
+                "Region_EN":"Al Jawf"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4415521.4953,
+                    2680793.3385
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0648\u0627\u062f\u064a \u0627\u0644\u0641\u0631\u0639",
+                "Governorate_EN":"Wadi Al Fara",
+                "Place_AR":"\u0648\u0627\u062f\u064a \u0627\u0644\u0641\u0631\u0639",
+                "Place_EN":"Wadi Al Fara",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4698842.5338,
+                    2060636.9935
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0631\u062c\u0627\u0644 \u0627\u0644\u0645\u0639",
+                "Governorate_EN":"Rijal Al Ma",
+                "Place_AR":"\u0631\u062c\u0627\u0644 \u0627\u0644\u0645\u0639",
+                "Place_EN":"Rijal Al Ma",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4560786.4013,
+                    2360211.6848
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0645\u064a\u0633\u0627\u0646",
+                "Governorate_EN":"Maysan",
+                "Place_AR":"\u0645\u064a\u0633\u0627\u0646",
+                "Place_EN":"Maysan",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4493603.236437,
+                    2406441.376934
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0637\u0627\u0626\u0641",
+                "Governorate_EN":"Al Taif",
+                "Place_AR":"\u0627\u0644\u062d\u062f\u0628\u0627\u0646",
+                "Place_EN":"Al Hadban",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5739058.2098,
+                    2769923.7248
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u062f\u064a\u062f",
+                "Governorate_EN":"Al Udayd",
+                "Place_AR":"\u0628\u0637\u062d\u0627\u0621",
+                "Place_EN":"Batha\u02bc",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4857002.1951,
+                    3059624.604
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0639\u064a\u0648\u0646 \u0627\u0644\u062c\u0648\u0627\u0621",
+                "Governorate_EN":"Uyun Al Jiwa",
+                "Place_AR":"\u0639\u064a\u0648\u0646 \u0627\u0644\u062c\u0648\u0627\u0621",
+                "Place_EN":"\u02bbUyun al Jiwa\u02bc",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5135165.3328,
+                    2826846.9719
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0636\u0631\u0645\u0627",
+                "Governorate_EN":"Duruma",
+                "Place_AR":"\u0636\u0631\u0645\u0627",
+                "Place_EN":"Duruma",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4845243.3402,
+                    2218249.6775
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062a\u062b\u0644\u064a\u062b",
+                "Governorate_EN":"Tathlith",
+                "Place_AR":"\u062a\u062b\u0644\u064a\u062b",
+                "Place_EN":"Tathlith",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5309984.2297,
+                    3193985.2053
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0642\u0631\u064a\u0647 \u0627\u0644\u0639\u0644\u064a\u0627",
+                "Governorate_EN":"Qaryah Al Ulya",
+                "Place_AR":"\u0642\u0631\u064a\u0629 \u0627\u0644\u0639\u0644\u064a\u0627",
+                "Place_EN":"Qaryat Al 'ulya",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5519948.363,
+                    2925709.1173
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0627\u062d\u0633\u0627\u0621",
+                "Governorate_EN":"Al Ahsa",
+                "Place_AR":"\u0627\u0644\u0645\u0628\u0631\u0632",
+                "Place_EN":"Al Mubarraz",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4768791.7935,
+                    1916867.5209
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0628\u0648 \u0639\u0631\u064a\u0634",
+                "Governorate_EN":"Abu Arish",
+                "Place_AR":"\u0623\u0628\u0648 \u0639\u0631\u064a\u0634",
+                "Place_EN":"Abu \u02bbArish",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4842225.7785,
+                    2982933.8275
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0631\u0633",
+                "Governorate_EN":"Ar Rass",
+                "Place_AR":"\u0627\u0644\u0631\u0633",
+                "Place_EN":"Ar Rass",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4612490.4142,
+                    2246728.3453
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u062e\u0648\u0627\u0647",
+                "Governorate_EN":"Al Mukhwah",
+                "Place_AR":"\u0627\u0644\u0645\u062e\u0648\u0627\u0629",
+                "Place_EN":"Al Mikhwah",
+                "Region_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Region_EN":"Al Bahah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4868087.2923,
+                    2998500.0792
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0628\u062f\u0627\u0626\u0639",
+                "Governorate_EN":"Al Badai",
+                "Place_AR":"\u0627\u0644\u0628\u062f\u0627\u0626\u0639",
+                "Place_EN":"Al Bada\u02bci\u02bb",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4590911.0167,
+                    2266976.577
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0642\u0644\u0648\u0647",
+                "Governorate_EN":"Qilwah",
+                "Place_AR":"\u0642\u0644\u0648\u0629",
+                "Place_EN":"Qilwah",
+                "Region_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Region_EN":"Al Bahah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5249827.6078,
+                    2945041.6588
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0631\u0645\u0627\u062d",
+                "Governorate_EN":"Rumah",
+                "Place_AR":"\u0631\u0645\u0627\u062d",
+                "Place_EN":"Rumah",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4545209.4587,
+                    2324770.9085
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0623\u0636\u0645",
+                "Governorate_EN":"Adam",
+                "Place_AR":"\u0623\u0636\u0645",
+                "Place_EN":"Adam",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4156650.2203,
+                    3676118.2496
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0631\u064a\u0627\u062a",
+                "Governorate_EN":"Al Qurayyat",
+                "Place_AR":"\u0627\u0644\u0642\u0631\u064a\u0627\u062a",
+                "Place_EN":"Al Qurayyat",
+                "Region_AR":"\u0627\u0644\u062c\u0648\u0641",
+                "Region_EN":"Al Jawf"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5517558.5606,
+                    2950338.8528
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0627\u062d\u0633\u0627\u0621",
+                "Governorate_EN":"Al Ahsa",
+                "Place_AR":"\u0627\u0644\u0639\u064a\u0648\u0646",
+                "Place_EN":"Al \u02bbUyun",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4373434.0634,
+                    2961983.6904
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062e\u064a\u0628\u0631",
+                "Governorate_EN":"Khaybar",
+                "Place_AR":"\u062e\u064a\u0628\u0631",
+                "Place_EN":"Khaybar",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4058954.1705,
+                    3028398.4922
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0648\u062c\u0647",
+                "Governorate_EN":"Al Wajh",
+                "Place_AR":"\u0627\u0644\u0648\u062c\u0647",
+                "Place_EN":"Al Wajh",
+                "Region_AR":"\u062a\u0628\u0648\u0643",
+                "Region_EN":"Tabuk"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4437435.8955,
+                    3478376.2674
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062f\u0648\u0645\u0629 \u0627\u0644\u062c\u0646\u062f\u0644",
+                "Governorate_EN":"Dawamat Al Jandal",
+                "Place_AR":"\u062f\u0648\u0645\u0629 \u0627\u0644\u062c\u0646\u062f\u0644",
+                "Place_EN":"Dawmat al Jandal",
+                "Region_AR":"\u0627\u0644\u062c\u0648\u0641",
+                "Region_EN":"Al Jawf"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4843983.0917,
+                    3455761.8364
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0631\u0641\u062d\u0627\u0621",
+                "Governorate_EN":"Rafha",
+                "Place_AR":"\u0631\u0641\u062d\u0627",
+                "Place_EN":"Rafha",
+                "Region_AR":"\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647",
+                "Region_EN":"Northern Borders"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4666982.648325,
+                    2240337.283637
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u0627\u0644\u0642\u0631\u0646",
+                "Governorate_EN":"Balqarn",
+                "Place_AR":"\u0627\u0644\u0628\u0634\u0627\u0626\u0631",
+                "Place_EN":"Al Bashayer",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4780861.603,
+                    1863887.1237
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0637\u0648\u0627\u0644",
+                "Governorate_EN":"At Tuwal",
+                "Place_AR":"\u0627\u0644\u0637\u0648\u0627\u0644",
+                "Place_EN":"At Tuwal",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4697499.3762,
+                    2977860.431
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0639\u0642\u0644\u0629 \u0627\u0644\u0635\u0642\u0648\u0631",
+                "Governorate_EN":"Uqlat As Suqur",
+                "Place_AR":"\u0639\u0642\u0644\u0629 \u0627\u0644\u0635\u0642\u0648\u0631",
+                "Place_EN":"\u02bbUqlat as Suqur",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4780510.4624,
+                    1948257.5489
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u064a\u062f\u0627\u0628\u0649",
+                "Governorate_EN":"Al Aydabi",
+                "Place_AR":"\u0627\u0644\u0639\u064a\u062f\u0627\u0628\u064a",
+                "Place_EN":"Al \u02bbIdabi",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4563038.2877,
+                    2398509.245
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0637\u0627\u0626\u0641",
+                "Governorate_EN":"Al Taif",
+                "Place_AR":"\u0642\u064a\u0627",
+                "Place_EN":"Qiya",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4846688.9375,
+                    3003995.3524
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0631\u064a\u0627\u0636 \u0627\u0644\u062e\u0628\u0631\u0627\u0621",
+                "Governorate_EN":"Riyadh Al Khabra",
+                "Place_AR":"\u0631\u064a\u0627\u0636 \u0627\u0644\u062e\u0628\u0631\u0627\u0621",
+                "Place_EN":"Riyad al Khabra\u02bc",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5132015.5952,
+                    2890618.3884
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062d\u0631\u064a\u0645\u0644\u0627\u0621",
+                "Governorate_EN":"Huraymila",
+                "Place_AR":"\u062d\u0631\u064a\u0645\u0644\u0627\u0621",
+                "Place_EN":"Huraymila\u02bc",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4843763.2391,
+                    1998218.9095
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0638\u0647\u0631\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628",
+                "Governorate_EN":"Zahran Al Janub",
+                "Place_AR":"\u0638\u0647\u0631\u0627\u0646 \u0627\u0644\u062c\u0646\u0648\u0628",
+                "Place_EN":"D\u035fhahran al Janub",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4626644.6901,
+                    2256377.3816
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u0644\u062c\u0631\u0634\u064a",
+                "Governorate_EN":"Biljurashi",
+                "Place_AR":"\u0628\u0644\u062c\u0631\u0634\u064a",
+                "Place_EN":"Biljurashi",
+                "Region_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Region_EN":"Al Bahah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    3890375.2044,
+                    3412007.205
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062d\u0642\u0644",
+                "Governorate_EN":"Haqil",
+                "Place_AR":"\u062d\u0642\u0644",
+                "Place_EN":"Haql",
+                "Region_AR":"\u062a\u0628\u0648\u0643",
+                "Region_EN":"Tabuk"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5060469.1364,
+                    2884526.7223
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0645\u0631\u0627\u062a",
+                "Governorate_EN":"Marat",
+                "Place_AR":"\u0645\u0631\u0627\u062a",
+                "Place_EN":"Marat",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4988257.5452,
+                    2748976.8985
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0648\u064a\u0639\u064a\u0647",
+                "Governorate_EN":"Al Quwayiyah",
+                "Place_AR":"\u0648\u062b\u064a\u0644\u0627\u0646",
+                "Place_EN":"Wuthaylan",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4980733.0669,
+                    3361424.7539
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0631\u0641\u062d\u0627\u0621",
+                "Governorate_EN":"Rafha",
+                "Place_AR":"\u0627\u0644\u0634\u0639\u0628\u0629",
+                "Place_EN":"Al Sho'bah",
+                "Region_AR":"\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647",
+                "Region_EN":"Northern Borders"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4922229.9058,
+                    3095601.1933
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0623\u0633\u064a\u0627\u062d",
+                "Governorate_EN":"Al Asyah",
+                "Place_AR":"\u0627\u0644\u0623\u0633\u064a\u0627\u062d",
+                "Place_EN":"Al Asyah",
+                "Region_AR":"\u0627\u0644\u0642\u0635\u064a\u0645",
+                "Region_EN":"Al Qaseem"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4569155.5697,
+                    2344000.0184
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0645\u064a\u0633\u0627\u0646",
+                "Governorate_EN":"Maysan",
+                "Place_AR":"\u062d\u062f\u0627\u062f \u0628\u0646\u064a \u0645\u0627\u0644\u0643",
+                "Place_EN":"Hadad Bani Malik",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4862505.2167,
+                    2836064.2504
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0648\u0627\u062f\u0645\u0649",
+                "Governorate_EN":"Ad Duwadimi",
+                "Place_AR":"\u0631\u0641\u0627\u0626\u0639 \u0627\u0644\u062c\u0645\u0634",
+                "Place_EN":"Rafa'i' Al Jamsh",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4801524.6483,
+                    1959803.0693
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0627\u0626\u0631",
+                "Governorate_EN":"Ad Dair",
+                "Place_AR":"\u0627\u0644\u062f\u0627\u0626\u0631",
+                "Place_EN":"Ad Da\u02bcir",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4580661.3327,
+                    3575601.0433
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0639\u0631\u0639\u0631 (\u0645\u0642\u0631 \u0627\u0644\u0627\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Arar",
+                "Place_AR":"\u0627\u0644\u0633\u0644\u064a\u0645\u0627\u0646\u064a\u0629",
+                "Place_EN":"As Sulaymaniyyah",
+                "Region_AR":"\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647",
+                "Region_EN":"Northern Borders"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4063355.4044,
+                    3173368.329
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0636\u0628\u0627\u0621",
+                "Governorate_EN":"Duba",
+                "Place_AR":"\u0634\u0648\u0627\u0642",
+                "Place_EN":"Shuwaq",
+                "Region_AR":"\u062a\u0628\u0648\u0643",
+                "Region_EN":"Tabuk"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4303867.5587,
+                    3720763.0244
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0637\u0631\u064a\u0641",
+                "Governorate_EN":"Turayf",
+                "Place_AR":"\u0637\u0631\u064a\u0641",
+                "Place_EN":"Turayf",
+                "Region_AR":"\u0627\u0644\u062d\u062f\u0648\u062f \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0647",
+                "Region_EN":"Northern Borders"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4429753.2458,
+                    2542580.828
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0643\u0627\u0645\u0644",
+                "Governorate_EN":"Al Kamil",
+                "Place_AR":"\u0627\u0644\u0643\u0627\u0645\u0644",
+                "Place_EN":"Al Kamil",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4599788.6242,
+                    3097248.6149
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u063a\u0632\u0627\u0644\u0647",
+                "Governorate_EN":"Al Ghazalah",
+                "Place_AR":"\u0627\u0644\u063a\u0632\u0627\u0644\u0647",
+                "Place_EN":"Al GhAzalah",
+                "Region_AR":"\u062d\u0627\u0626\u0644",
+                "Region_EN":"Hail"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4648616.5106,
+                    2563727.7107
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u0648\u064a\u0647",
+                "Governorate_EN":"Al Muwayh",
+                "Place_AR":"\u0627\u0644\u0645\u0648\u064a\u0647",
+                "Place_EN":"Al Muwayh",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5177445.7072,
+                    2708304.5562
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062d\u0631\u064a\u0642",
+                "Governorate_EN":"Al Hariq",
+                "Place_AR":"\u0627\u0644\u062d\u0631\u064a\u0642",
+                "Place_EN":"Al Hariq",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4689557.2423,
+                    2170737.1999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0646\u0645\u0627\u0635",
+                "Governorate_EN":"An Namas",
+                "Place_AR":"\u0627\u0644\u0646\u0645\u0627\u0635",
+                "Place_EN":"An Namas",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4633956.3818,
+                    2417207.4972
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062a\u0631\u0628\u0647",
+                "Governorate_EN":"Turubah",
+                "Place_AR":"\u062a\u0631\u0628\u0629",
+                "Place_EN":"Turuba",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4288872.1949,
+                    3201573.5483
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062a\u064a\u0645\u0627\u0621",
+                "Governorate_EN":"Tayma",
+                "Place_AR":"\u062a\u064a\u0645\u0627\u0621",
+                "Place_EN":"Tayma\u02bc",
+                "Region_AR":"\u062a\u0628\u0648\u0643",
+                "Region_EN":"Tabuk"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4254211.4955,
+                    3567603.3156
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0637\u0628\u0631\u062c\u0644",
+                "Governorate_EN":"Tubarjal",
+                "Place_AR":"\u0637\u0628\u0631\u062c\u0644",
+                "Place_EN":"Tabarjal",
+                "Region_AR":"\u0627\u0644\u062c\u0648\u0641",
+                "Region_EN":"Al Jawf"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4718882.2647,
+                    3236729.0302
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0628\u0642\u0639\u0627\u0621",
+                "Governorate_EN":"Baqa",
+                "Place_AR":"\u0628\u0642\u0639\u0627\u0621",
+                "Place_EN":"Baq\u02bba\u02bc",
+                "Region_AR":"\u062d\u0627\u0626\u0644",
+                "Region_EN":"Hail"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5106033.9916,
+                    2962558.7841
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u062c\u0645\u0639\u0647",
+                "Governorate_EN":"Al Majmaah",
+                "Place_AR":"\u062a\u0645\u064a\u0631",
+                "Place_EN":"Tumayr",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4240514.3758,
+                    2884670.6791
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u064a\u0635",
+                "Governorate_EN":"Al Is",
+                "Place_AR":"\u0627\u0644\u0639\u064a\u0635",
+                "Place_EN":"Al \u02bbIs",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4803346.8138,
+                    1896703.4295
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062d\u0631\u062b",
+                "Governorate_EN":"Al Harth",
+                "Place_AR":"\u0627\u0644\u062d\u0631\u062b",
+                "Place_EN":"Al Harth",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4964991.775,
+                    2898696.4523
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0648\u0627\u062f\u0645\u0649",
+                "Governorate_EN":"Ad Duwadimi",
+                "Place_AR":"\u0633\u0627\u062c\u0631",
+                "Place_EN":"Sajir",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4705744.2712,
+                    2128281.3903
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0628\u0647\u0627 (\u0645\u0642\u0631 \u0627\u0644\u0625\u0645\u0627\u0631\u0629)",
+                "Governorate_EN":"Abha",
+                "Place_AR":"\u0628\u0644\u0644\u0633\u0645\u0631",
+                "Place_EN":"Billasmar",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4353537.2602,
+                    2546202.3099
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u062c\u062f\u0629",
+                "Governorate_EN":"Jiddah",
+                "Place_AR":"\u062b\u0648\u0644",
+                "Place_EN":"Thuwal",
+                "Region_AR":"\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629",
+                "Region_EN":"Makkah Al Mukarramah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4818754.2973,
+                    2142065.6905
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0637\u0631\u064a\u0628",
+                "Governorate_EN":"Tarib",
+                "Place_AR":"\u0627\u0644\u0645\u0636\u0629",
+                "Place_EN":"Al Maddah",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4706689.2075,
+                    2007319.2982
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062f\u0631\u0628",
+                "Governorate_EN":"Ad Darb",
+                "Place_AR":"\u0627\u0644\u062f\u0631\u0628",
+                "Place_EN":"Ad Darb",
+                "Region_AR":"\u062c\u0627\u0632\u0627\u0646",
+                "Region_EN":"Jazan"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4802223.7186,
+                    2047729.414
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0633\u0631\u0627\u0629 \u0639\u0628\u064a\u062f\u0647",
+                "Governorate_EN":"Sarat Abidah",
+                "Place_AR":"\u0633\u0631\u0627\u0629 \u0639\u0628\u064a\u062f\u0629",
+                "Place_EN":"Sarat \u02bbAbidah",
+                "Region_AR":"\u0639\u0633\u064a\u0631",
+                "Region_EN":"Aseer"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4988803.37,
+                    3036240.535
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0632\u0644\u0641\u0649",
+                "Governorate_EN":"Az Zulfi",
+                "Place_AR":"\u0627\u0644\u0632\u0644\u0641\u064a",
+                "Place_EN":"Az Zulfi",
+                "Region_AR":"\u0627\u0644\u0631\u064a\u0627\u0636",
+                "Region_EN":"Ar Riyad"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5390388.478,
+                    3157121.1744
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0646\u0639\u064a\u0631\u064a\u0647",
+                "Governorate_EN":"Al Nuayriyah",
+                "Place_AR":"\u0645\u0644\u064a\u062c\u0629",
+                "Place_EN":"Mulayjah",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4596487.751,
+                    2290720.1235
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0645\u0646\u062f\u0642",
+                "Governorate_EN":"Al Mandaq",
+                "Place_AR":"\u0627\u0644\u0645\u0646\u062f\u0642",
+                "Place_EN":"Al Mandaq",
+                "Region_AR":"\u0627\u0644\u0628\u0627\u062d\u0629",
+                "Region_EN":"Al Bahah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4489398.7586,
+                    3103513.3104
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0634\u0645\u0644\u0649",
+                "Governorate_EN":"Ash Shamli",
+                "Place_AR":"\u0627\u0644\u0634\u0645\u0644\u064a",
+                "Place_EN":"Ash Shamli",
+                "Region_AR":"\u062d\u0627\u0626\u0644",
+                "Region_EN":"Hail"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4509083.8231,
+                    2863714.3379
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u062d\u0646\u0627\u0643\u064a\u0647",
+                "Governorate_EN":"Al Hinakiyah",
+                "Place_AR":"\u0627\u0644\u062d\u0646\u0627\u0643\u064a\u0629",
+                "Place_EN":"Al Hinakiyyah",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4222934.9706,
+                    3072948.2208
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0639\u0644\u0627",
+                "Governorate_EN":"Al Ula",
+                "Place_AR":"\u0627\u0644\u0639\u0644\u0627",
+                "Place_EN":"Al \u02bbUla",
+                "Region_AR":"\u0627\u0644\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0645\u0646\u0648\u0631\u0629",
+                "Region_EN":"Al Madinah Al Munawwarah"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    5571184.264,
+                    3059077.5848
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "Governorate_AR":"\u0627\u0644\u0642\u0637\u064a\u0641",
+                "Governorate_EN":"Al Qatif",
+                "Place_AR":"\u0633\u064a\u0647\u0627\u062a",
+                "Place_EN":"Sayhat",
+                "Region_AR":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
+                "Region_EN":"Eastern Region"
+            },
+            "type":"Feature"
+        }
+    ],
+    "type":"FeatureCollection"
+}

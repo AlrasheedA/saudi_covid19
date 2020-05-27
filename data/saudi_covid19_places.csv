@@ -2434,3 +2434,85 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-05-25 09:00:00,Yanbuʻ,ينبع,0,0,2,-2,Yanbu,ينبع,Al Madinah Al Munawwarah,المدينة المنورة
 2020-05-25 09:00:00,ʻARʻAR,عرعر,5,0,0,5,Arar,عرعر (مقر الامارة),Northern Borders,الحدود الشماليه
 2020-05-25 09:00:00,ʻUnayzah,عنيزة,5,0,3,2,Unayzah,عنيزه,Al Qaseem,القصيم
+2020-05-26 09:00:00,ABHA,أبها,3,0,8,-5,Abha,ابها (مقر الإمارة),Aseer,عسير
+2020-05-26 09:00:00,AD͟h D͟hahran,الظهران,26,0,15,11,Dammam,الدمام,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,AL BAHAH,الباحة,10,0,3,7,Al Bahah,الباحة (مقرالامارة),Al Bahah,الباحة
+2020-05-26 09:00:00,AL MADINAH al MUNAWWARAH,المدينة المنورة,35,1,264,-230,Al Madinah Al Munawwarah,المدينة المنورة (مقر الامارة),Al Madinah Al Munawwarah,المدينة المنورة
+2020-05-26 09:00:00,AR RIYAD,الرياض,739,2,571,166,Ar Riyad,الرياض (مقر الامارة),Ar Riyad,الرياض
+2020-05-26 09:00:00,Abu ʻArish,أبو عريش,1,0,0,1,Abu Arish,ابو عريش,Jazan,جازان
+2020-05-26 09:00:00,Ad Dammam,الدمام,74,0,179,-105,Dammam,الدمام,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Ad Darb,الدرب,1,0,0,1,Ad Darb,الدرب,Jazan,جازان
+2020-05-26 09:00:00,Ad Dilam,الدلم,0,0,1,-1,Ad Dilam,الدلم,Ar Riyad,الرياض
+2020-05-26 09:00:00,Ad Dirʻiyyah,الدرعية,0,0,12,-12,Ad Diriyah,الدرعيه,Ar Riyad,الرياض
+2020-05-26 09:00:00,Ad Duwadimi,الدوادمي,1,0,0,1,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-05-26 09:00:00,Ahad Rifaydah,أحد رفيدة,1,0,1,0,Ahad Rufaydah,احد رفيده,Aseer,عسير
+2020-05-26 09:00:00,Al Badaʼiʻ,البدائع,0,0,1,-1,Al Badai,البدائع,Al Qaseem,القصيم
+2020-05-26 09:00:00,Al Bukayriyyah,البكيرية,3,0,0,3,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
+2020-05-26 09:00:00,Al Gouz,القوز,0,0,2,-2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,2,0,0,2,Al Qurayyat,القريات,Al Jawf,الجوف
+2020-05-26 09:00:00,Al Hufuf,الهفوف,118,0,99,19,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Al Jafr,الجفر,2,0,7,-5,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Al Jubayl,الجبيل,29,0,75,-46,Al Jubayl,الجبيل,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Al Khafji,الخفجي,0,0,6,-6,Al Khafji,الخفجي,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Al Kharj,الخرج,13,0,8,5,Al Kharj,الخرج,Ar Riyad,الرياض
+2020-05-26 09:00:00,Al Khubar,الخبر,54,0,78,-24,Al Khubar,الخبر,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Al Khurmah,الخرمة,0,0,2,-2,Al Khurmah,الخرمة,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Al Lith,الليث,0,0,2,-2,Al Lith,الليث,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Al Majardah,المجاردة,0,0,1,-1,Al Majardah,المجارده,Aseer,عسير
+2020-05-26 09:00:00,Al Muzahimiyyah,المزاحمية,5,0,0,5,Al Muzahimiyah,المزاحميه,Ar Riyad,الرياض
+2020-05-26 09:00:00,Al Qara,القرى,0,0,1,-1,Al Qara,القرى,Al Bahah,الباحة
+2020-05-26 09:00:00,Al Qari',القريع,1,0,0,1,Maysan,ميسان,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Al Qatif,القطيف,29,0,79,-50,Al Qatif,القطيف,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Al Qunfudhah,القنفذة,0,0,1,-1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Al Quwayʻiyyah,القويعية,2,0,0,2,Al Quwayiyah,القويعيه,Ar Riyad,الرياض
+2020-05-26 09:00:00,Al Sehen,السحن,4,0,0,4,Maysan,ميسان,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Al ʻAridah,العارضة,7,0,0,7,Al Aridah,العارضه,Jazan,جازان
+2020-05-26 09:00:00,An Nuʻayriyyah,النعيرية,7,0,9,-2,Al Nuayriyah,النعيريه,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Ar Ruwaydah,الرويضة,4,0,0,4,Al Quwayiyah,القويعيه,Ar Riyad,الرياض
+2020-05-26 09:00:00,As Sulayyil,السليل,1,0,0,1,As Sulayyil,السليل,Ar Riyad,الرياض
+2020-05-26 09:00:00,At Taʼif,الطائف,14,0,86,-72,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,BURAYDAH,بريدة,9,0,16,-7,Buraydah,بريده (مقرالامارة),Al Qaseem,القصيم
+2020-05-26 09:00:00,Bathaʼ,بطحاء,1,0,0,1,Al Udayd,العديد,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Baysh,بيش,2,0,0,2,Baysh,بيش,Jazan,جازان
+2020-05-26 09:00:00,Bishah,بيشة,0,0,3,-3,Bishah,بيشه,Aseer,عسير
+2020-05-26 09:00:00,Buqayq,بقيق,1,0,13,-12,Buqayq,بقيق,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Damad,ضمد,1,0,0,1,Damad,ضمد,Jazan,جازان
+2020-05-26 09:00:00,Duba,ضبا,1,0,1,0,Duba,ضباء,Tabuk,تبوك
+2020-05-26 09:00:00,Duruma,ضرما,2,0,0,2,Duruma,ضرما,Ar Riyad,الرياض
+2020-05-26 09:00:00,HAʼIL,حائل,37,0,7,30,Hail,حائل(مقر الامارة),Hail,حائل
+2020-05-26 09:00:00,Hadda,حدة,0,0,9,-9, Bahrah,بحرة,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Hafar al Batin,حفر الباطن,6,0,1,5,Hafar Al Batin,حفر الباطن,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Haql,حقل,0,0,1,-1,Haqil,حقل,Tabuk,تبوك
+2020-05-26 09:00:00,Hawtat Bani Tamim,حوطة بني تميم,1,0,0,1,Hawtat Bani Tamim,حوطه بنى تميم,Ar Riyad,الرياض
+2020-05-26 09:00:00,Hazm al Jalamid,حزم الجلاميد,0,0,21,-21,Arar,عرعر (مقر الامارة),Northern Borders,الحدود الشماليه
+2020-05-26 09:00:00,Huraymilaʼ,حريملاء,1,0,0,1,Huraymila,حريملاء,Ar Riyad,الرياض
+2020-05-26 09:00:00,JAZAN,جازان,2,0,0,2,Jazan,جازان (مقر الامارة),Jazan,جازان
+2020-05-26 09:00:00,Jeddah,جدة,325,7,391,-73,Jiddah,جدة,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Judayyidat ʻarʻar,جديدة عرعر,0,0,26,-26,Arar,عرعر (مقر الامارة),Northern Borders,الحدود الشماليه
+2020-05-26 09:00:00,Khamis Mushayt,خميس مشيط,5,0,6,-1,Khamis Mushayt,خميس  مشيط,Aseer,عسير
+2020-05-26 09:00:00,Khulays,خليص,21,0,2,19,Khulays,خليص,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,MAKKAH al MUKARRAMAH,مكة المكرمة,162,4,458,-300,Makkah Al Mukarramah,مكة المكرمة (مقر الإمارة),Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Mahayil,محايل,1,0,5,-4,Muhayil,محايل,Aseer,عسير
+2020-05-26 09:00:00,Maysan,ميسان,1,0,0,1,Maysan,ميسان,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Mulayjah,مليجة,1,0,0,1,Al Nuayriyah,النعيريه,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,NAJRAN,نجران,5,0,1,4,Najran,نجران (مقر الامارة),Najran,نجران
+2020-05-26 09:00:00,Nifi,نفي,1,0,0,1,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-05-26 09:00:00,Rabigh,رابغ,1,0,1,0,Rabigh,رابغ,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Ranyah,رنية,1,0,0,1,Ranyah,رنيه,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Ras Tannurah,راس تنورة,4,0,3,1,Ras Tannurah,رأس تنوره,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Sabt al ʻAlayah,سبت العلاية,1,0,8,-7,Balqarn,بالقرن,Aseer,عسير
+2020-05-26 09:00:00,Safwá,صفوى,1,0,5,-4,Al Qatif,القطيف,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Sajir,ساجر,1,0,0,1,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-05-26 09:00:00,Salwá,سلوى,1,0,0,1,Al Udayd,العديد,Eastern Region,المنطقة الشرقية
+2020-05-26 09:00:00,Shaqraʼ,شقراء,1,0,0,1,Shaqra,شقراء,Ar Riyad,الرياض
+2020-05-26 09:00:00,Sharurah,شرورة,2,0,5,-3,Sharurah,شروره,Najran,نجران
+2020-05-26 09:00:00,TABUK,تبوك,18,0,45,-27,Tabuk,تبوك (مقرالامارة),Tabuk,تبوك
+2020-05-26 09:00:00,Taymaʼ,تيماء,1,0,1,0,Tayma,تيماء,Tabuk,تبوك
+2020-05-26 09:00:00,Thurayban,ثريبان,0,0,1,-1,Al Ardiyat,العرضيات,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Umlujj,أملج,0,0,4,-4,Umluj,املج,Tabuk,تبوك
+2020-05-26 09:00:00,Umm Ad Dawm,أم الدوم,0,0,1,-1,Al Muwayh,المويه,Makkah Al Mukarramah,مكة المكرمة
+2020-05-26 09:00:00,Wadi Ad Dawasir,وادي الدواسر,5,0,12,-7,Wadi Ad Dawasir,وادى الدواسر,Ar Riyad,الرياض
+2020-05-26 09:00:00,Wadi Al Fara,وادي الفرع,0,0,2,-2,Wadi Al Fara,وادي الفرع,Al Madinah Al Munawwarah,المدينة المنورة
+2020-05-26 09:00:00,Wuthaylan,وثيلان,1,0,0,1,Al Quwayiyah,القويعيه,Ar Riyad,الرياض
+2020-05-26 09:00:00,Yanbuʻ,ينبع,4,0,12,-8,Yanbu,ينبع,Al Madinah Al Munawwarah,المدينة المنورة
+2020-05-26 09:00:00,ʻARʻAR,عرعر,1,0,0,1,Arar,عرعر (مقر الامارة),Northern Borders,الحدود الشماليه

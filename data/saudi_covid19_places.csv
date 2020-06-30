@@ -5517,9 +5517,9 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-22 09:00:00,NAJRAN,نجران,70,0,33,37,Najran,نجران (مقر الامارة),Najran,نجران
 2020-06-22 09:00:00,Nifi,نفي,1,0,0,1,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
 2020-06-22 09:00:00,Numarah,نمرة,4,0,0,4,Al Ardiyat,العرضيات,Makkah Al Mukarramah,مكة المكرمة
+2020-06-22 09:00:00,Qaryat Al 'ulya,قرية العليا,2,0,2,0,Qaryah Al Ulya,قريه العليا,Eastern Region,المنطقة الشرقية
 2020-06-22 09:00:00,Qilwah,قلوة,0,0,1,-1,Qilwah,قلوه,Al Bahah,الباحة
 2020-06-22 09:00:00,Qiya,قيا,2,0,1,1,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
-2020-06-22 09:00:00,Qurayyah,قرية,2,0,2,0,Buqayq,بقيق,Eastern Region,المنطقة الشرقية
 2020-06-22 09:00:00,Rabigh,رابغ,2,0,2,0,Rabigh,رابغ,Makkah Al Mukarramah,مكة المكرمة
 2020-06-22 09:00:00,Rafa'i' Al Jamsh,رفائع الجمش,9,0,0,9,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
 2020-06-22 09:00:00,Rafha,رفحا,1,0,1,0,Rafha,رفحاء,Northern Borders,الحدود الشماليه
@@ -5667,9 +5667,9 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-23 09:00:00,Sarat ʻAbidah,سراة عبيدة,3,0,3,0,Sarat Abidah,سراة عبيده,Aseer,عسير
 2020-06-23 09:00:00,Shaqraʼ,شقراء,2,0,1,1,Shaqra,شقراء,Ar Riyad,الرياض
 2020-06-23 09:00:00,Sharurah,شرورة,13,0,12,1,Sharurah,شروره,Najran,نجران
+2020-06-23 09:00:00,TABUK,تبوك,26,0,3,23,Tabuk,تبوك (مقرالامارة),Tabuk,تبوك
 2020-06-23 09:00:00,Tabalah,تبالة,3,0,0,3,Bishah,بيشه,Aseer,عسير
 2020-06-23 09:00:00,Tabarjal,طبرجل,2,0,1,1,Tubarjal,طبرجل,Al Jawf,الجوف
-2020-06-23 09:00:00,Tabuk,تبوك (مقرالامارة),26,0,3,23,Tabuk,تبوك (مقرالامارة),Tabuk,تبوك
 2020-06-23 09:00:00,Tanumah,تنومة,2,0,1,1,Tanumah,تنومة,Aseer,عسير
 2020-06-23 09:00:00,Tathlith,تثليث,5,0,0,5,Tathlith,تثليث,Aseer,عسير
 2020-06-23 09:00:00,Thadiq,ثادق,4,0,3,1,Thadiq,ثادق,Ar Riyad,الرياض
@@ -6121,6 +6121,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-26 09:00:00,ʻUyun al Jiwaʼ,عيون الجواء,3,0,0,3,Uyun Al Jiwa,عيون الجواء,Al Qaseem,القصيم
 2020-06-27 09:00:00,ABHA,أبها,120,0,13,107,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-27 09:00:00,AD͟h D͟hahran,الظهران,78,0,47,31,Dammam,الدمام,Eastern Region,المنطقة الشرقية
+2020-06-27 09:00:00,AL BAHAH,الباحة,8,0,5,3,Al Bahah,الباحة (مقرالامارة),Al Bahah,الباحة
 2020-06-27 09:00:00,AL MADINAH al MUNAWWARAH,المدينة المنورة,186,1,201,-16,Al Madinah Al Munawwarah,المدينة المنورة (مقر الامارة),Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-27 09:00:00,AR RIYAD,الرياض,389,30,618,-259,Ar Riyad,الرياض (مقر الامارة),Ar Riyad,الرياض
 2020-06-27 09:00:00,Abu 'urwah,ابو عروة,0,0,2,-2,Al Jumum,الجموم,Makkah Al Mukarramah,مكة المكرمة
@@ -6136,13 +6137,11 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-27 09:00:00,Al Asyah,الأسياح,11,0,0,11,Al Asyah,الأسياح,Al Qaseem,القصيم
 2020-06-27 09:00:00,Al Badaʼiʻ,البدائع,4,0,0,4,Al Badai,البدائع,Al Qaseem,القصيم
 2020-06-27 09:00:00,Al Badʻ,البدع,1,0,1,0,Al Bad,البدع,Tabuk,تبوك
-2020-06-27 09:00:00,Al Bahah,الباحة (مقرالامارة),8,0,5,3,Al Bahah,الباحة (مقرالامارة),Al Bahah,الباحة
 2020-06-27 09:00:00,Al Bashayer,البشائر,6,0,2,4,Balqarn,بالقرن,Aseer,عسير
 2020-06-27 09:00:00,Al Bukayriyyah,البكيرية,7,0,0,7,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-27 09:00:00,Al Farshah,الفرشة,1,0,0,1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-27 09:00:00,Al Gouz,القوز,1,0,0,1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-27 09:00:00,Al Harajah,الحرجة,3,0,0,3,,الحرجه,Aseer,عسير
-2020-06-27 09:00:00,Al Hawtah,الحوطة,6,0,0,6,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
 2020-06-27 09:00:00,Al Haʼit,الحائط,1,0,0,1,Al Hait,الحائط,Hail,حائل
 2020-06-27 09:00:00,Al Hinakiyyah,الحناكية,3,0,10,-7,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-27 09:00:00,Al Hufuf,الهفوف,487,0,55,432,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -6210,6 +6209,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-27 09:00:00,Fayfa,فيفا,1,0,0,1,Fayfa,فيفا,Jazan,جازان
 2020-06-27 09:00:00,HAʼIL,حائل,41,0,2,39,Hail,حائل(مقر الامارة),Hail,حائل
 2020-06-27 09:00:00,Hafar al Batin,حفر الباطن,104,0,34,70,Hafar Al Batin,حفر الباطن,Eastern Region,المنطقة الشرقية
+2020-06-27 09:00:00,Hawtat Bani Tamim,حوطة بني تميم,6,0,0,6,Hawtat Bani Tamim,حوطه بنى تميم,Ar Riyad,الرياض
 2020-06-27 09:00:00,Hawtat Sudayr,حوطة سدير,0,0,14,-14,Al Majmaah,المجمعه,Ar Riyad,الرياض
 2020-06-27 09:00:00,Hubuna,حبونا,5,0,0,5,Hubuna,حبونا,Najran,نجران
 2020-06-27 09:00:00,Huraymilaʼ,حريملاء,0,0,3,-3,Huraymila,حريملاء,Ar Riyad,الرياض

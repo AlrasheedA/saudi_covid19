@@ -2974,7 +2974,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-01 09:00:00,Ahad Rifaydah,أحد رفيدة,1,0,0,1,Ahad Rufaydah,احد رفيده,Aseer,عسير
 2020-06-01 09:00:00,Al Bukayriyyah,البكيرية,1,0,0,1,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-01 09:00:00,Al Hada,الهدا,8,0,4,4,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
-2020-06-01 09:00:00,Al Harajah,الحرجة,1,0,0,1,,الحرجه,Aseer,عسير
+2020-06-01 09:00:00,Al Harajah,الحرجة,1,0,0,1,Al Harjah,الحرجه,Aseer,عسير
 2020-06-01 09:00:00,Al Hufuf,الهفوف,119,0,0,119,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-01 09:00:00,Al Jafr,الجفر,13,0,0,13,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-01 09:00:00,Al Jubayl,الجبيل,4,0,22,-18,Al Jubayl,الجبيل,Eastern Region,المنطقة الشرقية
@@ -3521,7 +3521,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-07 09:00:00,Ad Dirʻiyyah,الدرعية,41,0,0,41,Ad Diriyah,الدرعيه,Ar Riyad,الرياض
 2020-06-07 09:00:00,Adam,أضم,0,0,1,-1,Adam,أضم,Makkah Al Mukarramah,مكة المكرمة
 2020-06-07 09:00:00,Ahad Rifaydah,أحد رفيدة,3,0,0,3,Ahad Rufaydah,احد رفيده,Aseer,عسير
-2020-06-07 09:00:00,Al Harajah,الحرجة,1,0,0,1,,الحرجه,Aseer,عسير
+2020-06-07 09:00:00,Al Harajah,الحرجة,1,0,0,1,Al Harjah,الحرجه,Aseer,عسير
 2020-06-07 09:00:00,Al Hufuf,الهفوف,241,0,133,108,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-07 09:00:00,Al Jafr,الجفر,7,0,6,1,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-07 09:00:00,Al Jubayl,الجبيل,28,0,99,-71,Al Jubayl,الجبيل,Eastern Region,المنطقة الشرقية
@@ -3730,7 +3730,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-09 09:00:00,Al GhAzalah,الغزاله,0,0,1,-1,Al Ghazalah,الغزاله,Hail,حائل
 2020-06-09 09:00:00,Al Gouz,القوز,3,0,1,2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-09 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,0,0,1,-1,Al Qurayyat,القريات,Al Jawf,الجوف
-2020-06-09 09:00:00,Al Harajah,الحرجة,4,0,0,4,,الحرجه,Aseer,عسير
+2020-06-09 09:00:00,Al Harajah,الحرجة,4,0,0,4,Al Harjah,الحرجه,Aseer,عسير
 2020-06-09 09:00:00,Al Hariq,الحريق,1,0,0,1,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-09 09:00:00,Al Harth,الحرث,0,0,1,-1,Al Harth,الحرث,Jazan,جازان
 2020-06-09 09:00:00,Al Hufuf,الهفوف,194,3,74,117,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -3846,7 +3846,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-10 09:00:00,Al Gouz,القوز,6,0,1,5,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-10 09:00:00,Al Hada,الهدا,0,0,5,-5,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
 2020-06-10 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,1,0,0,1,Al Qurayyat,القريات,Al Jawf,الجوف
-2020-06-10 09:00:00,Al Harajah,الحرجة,3,0,0,3,,الحرجه,Aseer,عسير
+2020-06-10 09:00:00,Al Harajah,الحرجة,3,0,0,3,Al Harjah,الحرجه,Aseer,عسير
 2020-06-10 09:00:00,Al Hariq,الحريق,1,0,0,1,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-10 09:00:00,Al Harth,الحرث,1,0,0,1,Al Harth,الحرث,Jazan,جازان
 2020-06-10 09:00:00,Al Hinakiyyah,الحناكية,1,0,0,1,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
@@ -4104,7 +4104,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-12 09:00:00,Al Bukayriyyah,البكيرية,6,0,0,6,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-12 09:00:00,Al Gouz,القوز,1,0,1,0,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-12 09:00:00,Al Hada,الهدا,0,0,4,-4,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
-2020-06-12 09:00:00,Al Harajah,الحرجة,2,0,0,2,,الحرجه,Aseer,عسير
+2020-06-12 09:00:00,Al Harajah,الحرجة,2,0,0,2,Al Harjah,الحرجه,Aseer,عسير
 2020-06-12 09:00:00,Al Hariq,الحريق,1,0,0,1,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-12 09:00:00,Al Hinakiyyah,الحناكية,2,0,0,2,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-12 09:00:00,Al Hufuf,الهفوف,91,0,276,-185,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -4216,7 +4216,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-13 09:00:00,Al Farshah,الفرشة,1,0,0,1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-13 09:00:00,Al Gouz,القوز,3,0,1,2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-13 09:00:00,Al Hada,الهدا,0,0,1,-1,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
-2020-06-13 09:00:00,Al Harajah,الحرجة,2,0,1,1,,الحرجه,Aseer,عسير
+2020-06-13 09:00:00,Al Harajah,الحرجة,2,0,1,1,Al Harjah,الحرجه,Aseer,عسير
 2020-06-13 09:00:00,Al Hariq,الحريق,1,0,0,1,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-13 09:00:00,Al Hinakiyyah,الحناكية,5,0,1,4,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-13 09:00:00,Al Hufuf,الهفوف,147,2,54,91,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -4346,7 +4346,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-14 09:00:00,Al Bashayer,البشائر,0,0,2,-2,Balqarn,بالقرن,Aseer,عسير
 2020-06-14 09:00:00,Al Bijadiyyah,البجادية,4,0,0,4,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
 2020-06-14 09:00:00,Al Bukayriyyah,البكيرية,6,0,0,6,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
-2020-06-14 09:00:00,Al Harajah,الحرجة,2,0,0,2,,الحرجه,Aseer,عسير
+2020-06-14 09:00:00,Al Harajah,الحرجة,2,0,0,2,Al Harjah,الحرجه,Aseer,عسير
 2020-06-14 09:00:00,Al Hinakiyyah,الحناكية,3,0,0,3,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-14 09:00:00,Al Hufuf,الهفوف,205,1,56,148,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-14 09:00:00,Al Jafr,الجفر,5,0,7,-2,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -4482,7 +4482,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-15 09:00:00,Al GhAzalah,الغزاله,1,0,0,1,Al Ghazalah,الغزاله,Hail,حائل
 2020-06-15 09:00:00,Al Gouz,القوز,0,0,1,-1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-15 09:00:00,Al Hada,الهدا,0,0,2,-2,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
-2020-06-15 09:00:00,Al Harajah,الحرجة,5,0,0,5,,الحرجه,Aseer,عسير
+2020-06-15 09:00:00,Al Harajah,الحرجة,5,0,0,5,Al Harjah,الحرجه,Aseer,عسير
 2020-06-15 09:00:00,Al Hariq,الحريق,1,0,0,1,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-15 09:00:00,Al Haʼit,الحائط,1,0,0,1,Al Hait,الحائط,Hail,حائل
 2020-06-15 09:00:00,Al Hinakiyyah,الحناكية,1,0,1,0,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
@@ -4605,7 +4605,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-16 09:00:00,Al Bijadiyyah,البجادية,4,0,0,4,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
 2020-06-16 09:00:00,Al Bukayriyyah,البكيرية,2,0,0,2,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-16 09:00:00,Al Farshah,الفرشة,1,0,0,1,Abha,ابها (مقر الإمارة),Aseer,عسير
-2020-06-16 09:00:00,Al Harajah,الحرجة,4,0,0,4,,الحرجه,Aseer,عسير
+2020-06-16 09:00:00,Al Harajah,الحرجة,4,0,0,4,Al Harjah,الحرجه,Aseer,عسير
 2020-06-16 09:00:00,Al Hinakiyyah,الحناكية,3,0,0,3,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-16 09:00:00,Al Hufuf,الهفوف,273,0,52,221,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-16 09:00:00,Al Jafr,الجفر,14,0,3,11,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -4738,7 +4738,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-17 09:00:00,Al GhAzalah,الغزاله,2,0,0,2,Al Ghazalah,الغزاله,Hail,حائل
 2020-06-17 09:00:00,Al Gouz,القوز,1,0,0,1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-17 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,0,0,1,-1,Al Qurayyat,القريات,Al Jawf,الجوف
-2020-06-17 09:00:00,Al Harajah,الحرجة,2,0,0,2,,الحرجه,Aseer,عسير
+2020-06-17 09:00:00,Al Harajah,الحرجة,2,0,0,2,Al Harjah,الحرجه,Aseer,عسير
 2020-06-17 09:00:00,Al Hufuf,الهفوف,174,2,294,-122,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-17 09:00:00,Al Jafr,الجفر,5,0,19,-14,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-17 09:00:00,Al Jubayl,الجبيل,35,0,32,3,Al Jubayl,الجبيل,Eastern Region,المنطقة الشرقية
@@ -4875,7 +4875,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-18 09:00:00,Al Bukayriyyah,البكيرية,9,0,3,6,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-18 09:00:00,Al GhAzalah,الغزاله,2,0,0,2,Al Ghazalah,الغزاله,Hail,حائل
 2020-06-18 09:00:00,Al Gouz,القوز,0,0,2,-2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
-2020-06-18 09:00:00,Al Harajah,الحرجة,8,0,0,8,,الحرجه,Aseer,عسير
+2020-06-18 09:00:00,Al Harajah,الحرجة,8,0,0,8,Al Harjah,الحرجه,Aseer,عسير
 2020-06-18 09:00:00,Al Haʼit,الحائط,1,0,0,1,Al Hait,الحائط,Hail,حائل
 2020-06-18 09:00:00,Al Hinakiyyah,الحناكية,9,0,0,9,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-18 09:00:00,Al Hufuf,الهفوف,430,2,90,338,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -5011,7 +5011,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-19 09:00:00,Al Bashayer,البشائر,0,0,4,-4,Balqarn,بالقرن,Aseer,عسير
 2020-06-19 09:00:00,Al Bukayriyyah,البكيرية,6,0,0,6,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-19 09:00:00,Al GhAzalah,الغزاله,1,0,0,1,Al Ghazalah,الغزاله,Hail,حائل
-2020-06-19 09:00:00,Al Harajah,الحرجة,4,0,5,-1,,الحرجه,Aseer,عسير
+2020-06-19 09:00:00,Al Harajah,الحرجة,4,0,5,-1,Al Harjah,الحرجه,Aseer,عسير
 2020-06-19 09:00:00,Al Harth,الحرث,0,0,1,-1,Al Harth,الحرث,Jazan,جازان
 2020-06-19 09:00:00,Al Hufuf,الهفوف,285,2,66,217,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-19 09:00:00,Al Jafr,الجفر,19,0,9,10,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -5154,7 +5154,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-20 09:00:00,Al Farshah,الفرشة,1,0,0,1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-20 09:00:00,Al GhAzalah,الغزاله,1,0,0,1,Al Ghazalah,الغزاله,Hail,حائل
 2020-06-20 09:00:00,Al Gouz,القوز,1,0,1,0,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
-2020-06-20 09:00:00,Al Harajah,الحرجة,1,0,2,-1,,الحرجه,Aseer,عسير
+2020-06-20 09:00:00,Al Harajah,الحرجة,1,0,2,-1,Al Harjah,الحرجه,Aseer,عسير
 2020-06-20 09:00:00,Al Hariq,الحريق,0,0,3,-3,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-20 09:00:00,Al Harth,الحرث,2,0,0,2,Al Harth,الحرث,Jazan,جازان
 2020-06-20 09:00:00,Al Haʼit,الحائط,1,0,0,1,Al Hait,الحائط,Hail,حائل
@@ -5288,7 +5288,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-21 09:00:00,Al GhAzalah,الغزاله,4,0,0,4,Al Ghazalah,الغزاله,Hail,حائل
 2020-06-21 09:00:00,Al Gouz,القوز,0,0,2,-2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-21 09:00:00,Al Hamnah,الحمنة,0,0,1,-1,Wadi Al Fara,وادي الفرع,Al Madinah Al Munawwarah,المدينة المنورة
-2020-06-21 09:00:00,Al Harajah,الحرجة,5,0,0,5,,الحرجه,Aseer,عسير
+2020-06-21 09:00:00,Al Harajah,الحرجة,5,0,0,5,Al Harjah,الحرجه,Aseer,عسير
 2020-06-21 09:00:00,Al Haʼit,الحائط,2,0,0,2,Al Hait,الحائط,Hail,حائل
 2020-06-21 09:00:00,Al Hinakiyyah,الحناكية,3,0,1,2,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-21 09:00:00,Al Hufuf,الهفوف,183,2,178,3,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -5437,7 +5437,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-22 09:00:00,Al Bukayriyyah,البكيرية,14,0,7,7,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-22 09:00:00,Al Gouz,القوز,1,0,0,1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-22 09:00:00,Al Hamnah,الحمنة,1,0,0,1,Wadi Al Fara,وادي الفرع,Al Madinah Al Munawwarah,المدينة المنورة
-2020-06-22 09:00:00,Al Harajah,الحرجة,9,0,1,8,,الحرجه,Aseer,عسير
+2020-06-22 09:00:00,Al Harajah,الحرجة,9,0,1,8,Al Harjah,الحرجه,Aseer,عسير
 2020-06-22 09:00:00,Al Hariq,الحريق,0,0,1,-1,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-22 09:00:00,Al Harth,الحرث,1,0,0,1,Al Harth,الحرث,Jazan,جازان
 2020-06-22 09:00:00,Al Hinakiyyah,الحناكية,0,0,2,-2,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
@@ -5575,7 +5575,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-23 09:00:00,Al Bukayriyyah,البكيرية,33,0,5,28,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-23 09:00:00,Al Farshah,الفرشة,0,0,1,-1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-23 09:00:00,Al Gouz,القوز,1,0,11,-10,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
-2020-06-23 09:00:00,Al Harajah,الحرجة,6,0,2,4,,الحرجه,Aseer,عسير
+2020-06-23 09:00:00,Al Harajah,الحرجة,6,0,2,4,Al Harjah,الحرجه,Aseer,عسير
 2020-06-23 09:00:00,Al Haʼit,الحائط,4,0,0,4,Al Hait,الحائط,Hail,حائل
 2020-06-23 09:00:00,Al Hinakiyyah,الحناكية,2,0,5,-3,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-23 09:00:00,Al Hufuf,الهفوف,343,0,326,17,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -5709,7 +5709,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-24 09:00:00,Al GhAzalah,الغزاله,2,0,0,2,Al Ghazalah,الغزاله,Hail,حائل
 2020-06-24 09:00:00,Al Gouz,القوز,0,0,1,-1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-24 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,1,0,1,0,Al Qurayyat,القريات,Al Jawf,الجوف
-2020-06-24 09:00:00,Al Harajah,الحرجة,1,0,0,1,,الحرجه,Aseer,عسير
+2020-06-24 09:00:00,Al Harajah,الحرجة,1,0,0,1,Al Harjah,الحرجه,Aseer,عسير
 2020-06-24 09:00:00,Al Hariq,الحريق,0,0,2,-2,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-06-24 09:00:00,Al Haʼit,الحائط,3,0,0,3,Al Hait,الحائط,Hail,حائل
 2020-06-24 09:00:00,Al Hinakiyyah,الحناكية,0,0,3,-3,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
@@ -5851,7 +5851,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-25 09:00:00,Al Bukayriyyah,البكيرية,4,0,0,4,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-25 09:00:00,Al Farshah,الفرشة,0,0,1,-1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-25 09:00:00,Al Gouz,القوز,1,0,0,1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
-2020-06-25 09:00:00,Al Harajah,الحرجة,0,0,3,-3,,الحرجه,Aseer,عسير
+2020-06-25 09:00:00,Al Harajah,الحرجة,0,0,3,-3,Al Harjah,الحرجه,Aseer,عسير
 2020-06-25 09:00:00,Al Haʼit,الحائط,15,0,0,15,Al Hait,الحائط,Hail,حائل
 2020-06-25 09:00:00,Al Hinakiyyah,الحناكية,6,0,1,5,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-25 09:00:00,Al Hufuf,الهفوف,332,3,42,287,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -5998,7 +5998,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-26 09:00:00,Al Gouz,القوز,0,0,1,-1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-26 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,1,0,0,1,Al Qurayyat,القريات,Al Jawf,الجوف
 2020-06-26 09:00:00,Al Hamnah,الحمنة,1,0,0,1,Wadi Al Fara,وادي الفرع,Al Madinah Al Munawwarah,المدينة المنورة
-2020-06-26 09:00:00,Al Harajah,الحرجة,23,0,1,22,,الحرجه,Aseer,عسير
+2020-06-26 09:00:00,Al Harajah,الحرجة,23,0,1,22,Al Harjah,الحرجه,Aseer,عسير
 2020-06-26 09:00:00,Al Hinakiyyah,الحناكية,2,0,0,2,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-26 09:00:00,Al Hufuf,الهفوف,535,1,154,380,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-06-26 09:00:00,Al Jafr,الجفر,27,0,7,20,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -6141,7 +6141,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-27 09:00:00,Al Bukayriyyah,البكيرية,7,0,0,7,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-27 09:00:00,Al Farshah,الفرشة,1,0,0,1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-27 09:00:00,Al Gouz,القوز,1,0,0,1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
-2020-06-27 09:00:00,Al Harajah,الحرجة,3,0,0,3,,الحرجه,Aseer,عسير
+2020-06-27 09:00:00,Al Harajah,الحرجة,3,0,0,3,Al Harjah,الحرجه,Aseer,عسير
 2020-06-27 09:00:00,Al Haʼit,الحائط,1,0,0,1,Al Hait,الحائط,Hail,حائل
 2020-06-27 09:00:00,Al Hinakiyyah,الحناكية,3,0,10,-7,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-27 09:00:00,Al Hufuf,الهفوف,487,0,55,432,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -6286,7 +6286,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-28 09:00:00,Al Bukayriyyah,البكيرية,8,0,11,-3,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-28 09:00:00,Al Farshah,الفرشة,0,0,1,-1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-28 09:00:00,Al Gouz,القوز,2,0,0,2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
-2020-06-28 09:00:00,Al Harajah,الحرجة,6,0,0,6,,الحرجه,Aseer,عسير
+2020-06-28 09:00:00,Al Harajah,الحرجة,6,0,0,6,Al Harjah,الحرجه,Aseer,عسير
 2020-06-28 09:00:00,Al Harth,الحرث,2,0,0,2,Al Harth,الحرث,Jazan,جازان
 2020-06-28 09:00:00,Al Haʼit,الحائط,1,0,0,1,Al Hait,الحائط,Hail,حائل
 2020-06-28 09:00:00,Al Hinakiyyah,الحناكية,0,0,3,-3,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
@@ -6426,7 +6426,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-29 09:00:00,Al Farshah,الفرشة,1,0,0,1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-29 09:00:00,Al Gouz,القوز,2,0,0,2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-06-29 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,0,0,1,-1,Al Qurayyat,القريات,Al Jawf,الجوف
-2020-06-29 09:00:00,Al Harajah,الحرجة,8,0,5,3,,الحرجه,Aseer,عسير
+2020-06-29 09:00:00,Al Harajah,الحرجة,8,0,5,3,Al Harjah,الحرجه,Aseer,عسير
 2020-06-29 09:00:00,Al Harth,الحرث,3,0,0,3,Al Harth,الحرث,Jazan,جازان
 2020-06-29 09:00:00,Al Hinakiyyah,الحناكية,1,0,2,-1,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-29 09:00:00,Al Hufuf,الهفوف,980,0,478,502,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -6574,7 +6574,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-06-30 09:00:00,Al Bukayriyyah,البكيرية,7,0,0,7,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-06-30 09:00:00,Al Farshah,الفرشة,0,0,1,-1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-06-30 09:00:00,Al GhAzalah,الغزاله,1,0,0,1,Al Ghazalah,الغزاله,Hail,حائل
-2020-06-30 09:00:00,Al Harajah,الحرجة,0,0,6,-6,,الحرجه,Aseer,عسير
+2020-06-30 09:00:00,Al Harajah,الحرجة,0,0,6,-6,Al Harjah,الحرجه,Aseer,عسير
 2020-06-30 09:00:00,Al Harth,الحرث,2,0,1,1,Al Harth,الحرث,Jazan,جازان
 2020-06-30 09:00:00,Al Hinakiyyah,الحناكية,2,0,1,1,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-06-30 09:00:00,Al Hufuf,الهفوف,229,2,407,-180,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
@@ -6713,7 +6713,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-01 09:00:00,Al GhAzalah,الغزاله,1,0,0,1,Al Ghazalah,الغزاله,Hail,حائل
 2020-07-01 09:00:00,Al Gouz,القوز,0,0,1,-1,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-07-01 09:00:00,Al Hamnah,الحمنة,0,0,1,-1,Wadi Al Fara,وادي الفرع,Al Madinah Al Munawwarah,المدينة المنورة
-2020-07-01 09:00:00,Al Harajah,الحرجة,2,0,5,-3,,الحرجه,Aseer,عسير
+2020-07-01 09:00:00,Al Harajah,الحرجة,2,0,5,-3,Al Harjah,الحرجه,Aseer,عسير
 2020-07-01 09:00:00,Al Harth,الحرث,0,0,2,-2,Al Harth,الحرث,Jazan,جازان
 2020-07-01 09:00:00,Al Haʼit,الحائط,2,0,0,2,Al Hait,الحائط,Hail,حائل
 2020-07-01 09:00:00,Al Hinakiyyah,الحناكية,2,0,2,0,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
@@ -6863,7 +6863,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-02 09:00:00,Al Farshah,الفرشة,0,0,1,-1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-07-02 09:00:00,Al GhAzalah,الغزاله,2,0,0,2,Al Ghazalah,الغزاله,Hail,حائل
 2020-07-02 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,1,0,0,1,Al Qurayyat,القريات,Al Jawf,الجوف
-2020-07-02 09:00:00,Al Harajah,الحرجة,1,0,3,-2,,الحرجه,Aseer,عسير
+2020-07-02 09:00:00,Al Harajah,الحرجة,1,0,3,-2,Al Harjah,الحرجه,Aseer,عسير
 2020-07-02 09:00:00,Al Hariq,الحريق,2,0,0,2,Al Hariq,الحريق,Ar Riyad,الرياض
 2020-07-02 09:00:00,Al Haʼit,الحائط,3,0,0,3,Al Hait,الحائط,Hail,حائل
 2020-07-02 09:00:00,Al Hinakiyyah,الحناكية,7,0,0,7,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
@@ -7018,7 +7018,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-03 09:00:00,Al Farshah,الفرشة,0,0,1,-1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-07-03 09:00:00,Al Gouz,القوز,2,0,0,2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-07-03 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,2,0,0,2,Al Qurayyat,القريات,Al Jawf,الجوف
-2020-07-03 09:00:00,Al Harajah,الحرجة,0,0,6,-6,,الحرجه,Aseer,عسير
+2020-07-03 09:00:00,Al Harajah,الحرجة,0,0,6,-6,Al Harjah,الحرجه,Aseer,عسير
 2020-07-03 09:00:00,Al Harth,الحرث,1,0,0,1,Al Harth,الحرث,Jazan,جازان
 2020-07-03 09:00:00,Al Hinakiyyah,الحناكية,2,0,6,-4,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
 2020-07-03 09:00:00,Al Hufuf,الهفوف,217,5,125,87,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية

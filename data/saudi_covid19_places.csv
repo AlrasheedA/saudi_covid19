@@ -7979,6 +7979,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-09 09:00:00,Al Mandaq,المندق,2,0,0,2,Al Mandaq,المندق,Al Bahah,الباحة
 2020-07-09 09:00:00,Al Midhnab,المذنب,9,0,19,-10,Al Midhnab,المذنب,Al Qaseem,القصيم
 2020-07-09 09:00:00,Al Mikhwah,المخواة,4,0,5,-1,Al Mukhwah,المخواه,Al Bahah,الباحة
+2020-07-09 09:00:00,Al Mubarraz,المبرز,196,0,154,42,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-07-09 09:00:00,Al Mud͟haylif,المظيلف,1,0,3,-2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
 2020-07-09 09:00:00,Al Muwayh,المويه,4,0,0,4,Al Muwayh,المويه,Makkah Al Mukarramah,مكة المكرمة
 2020-07-09 09:00:00,Al Muzahimiyyah,المزاحمية,10,0,0,10,Al Muzahimiyah,المزاحميه,Ar Riyad,الرياض
@@ -8042,7 +8043,6 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-09 09:00:00,Mayquʻ,ميقوع,1,0,0,1,Tubarjal,طبرجل,Al Jawf,الجوف
 2020-07-09 09:00:00,Maysan,ميسان,4,0,0,4,Maysan,ميسان,Makkah Al Mukarramah,مكة المكرمة
 2020-07-09 09:00:00,Mihd  adh Dhahab,مهد الذهب,5,0,0,5,Al Mahd,المهد,Al Madinah Al Munawwarah,المدينة المنورة
-2020-07-09 09:00:00,Mubaraz,مبرز,196,0,154,42,Ash Shinan,الشنان,Hail,حائل
 2020-07-09 09:00:00,Mulayjah,مليجة,8,0,0,8,Al Nuayriyah,النعيريه,Eastern Region,المنطقة الشرقية
 2020-07-09 09:00:00,NAJRAN,نجران,26,0,15,11,Najran,نجران (مقر الامارة),Najran,نجران
 2020-07-09 09:00:00,Nifi,نفي,1,0,0,1,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض

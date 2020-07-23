@@ -9547,7 +9547,7 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-19 09:00:00,Al Bukayriyyah,البكيرية,4,0,1,3,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
 2020-07-19 09:00:00,Al Farshah,الفرشة,1,0,0,1,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-07-19 09:00:00,Al GhAzalah,الغزاله,0,0,2,-2,Al Ghazalah,الغزاله,Hail,حائل
-2020-07-19 09:00:00,Al Hadithah,الحديثة,0,0,1,-1,Al Qurayyat,القريات,Al Jawf,الجوف
+2020-07-19 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,0,0,1,-1,Al Qurayyat,القريات,Al Jawf,الجوف
 2020-07-19 09:00:00,Al Hamnah,الحمنة,1,0,3,-2,Wadi Al Fara,وادي الفرع,Al Madinah Al Munawwarah,المدينة المنورة
 2020-07-19 09:00:00,Al Harajah,الحرجة,20,0,17,3,Al Harjah,الحرجه,Aseer,عسير
 2020-07-19 09:00:00,Al Hariq,الحريق,0,0,2,-2,Al Hariq,الحريق,Ar Riyad,الرياض
@@ -9856,9 +9856,9 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-20 09:00:00,ʻUqlat as Suqur,عقلة الصقور,1,0,0,1,Uqlat As Suqur,عقلة الصقور,Al Qaseem,القصيم
 2020-07-20 09:00:00,ʻUrayʻirah,عريعرة,2,0,4,-2,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-07-20 09:00:00,ʻUyun al Jiwaʼ,عيون الجواء,15,0,10,5,Uyun Al Jiwa,عيون الجواء,Al Qaseem,القصيم
-2020-07-21 09:00:00,ABHA,أبها,2,0,2,0,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-07-21 09:00:00,ABHA,أبها,53,0,159,-106,Abha,ابها (مقر الإمارة),Aseer,عسير
 2020-07-21 09:00:00,AD͟h D͟hahran,الظهران,7,0,84,-77,Dammam,الدمام,Eastern Region,المنطقة الشرقية
+2020-07-21 09:00:00,AL BAHAH,الباحة,2,0,2,0,Al Bahah,الباحة (مقرالامارة),Al Bahah,الباحة
 2020-07-21 09:00:00,AL MADINAH al MUNAWWARAH,المدينة المنورة,56,0,72,-16,Al Madinah Al Munawwarah,المدينة المنورة (مقر الامارة),Al Madinah Al Munawwarah,المدينة المنورة
 2020-07-21 09:00:00,AR RIYAD,الرياض,136,17,288,-169,Ar Riyad,الرياض (مقر الامارة),Ar Riyad,الرياض
 2020-07-21 09:00:00,Abu ʻArish,أبو عريش,25,0,8,17,Abu Arish,ابو عريش,Jazan,جازان
@@ -10018,3 +10018,172 @@ DateTime,Place_EN,Place_AR,Confirmed,Deaths,Recovered,Active,Governorate_EN,Gove
 2020-07-21 09:00:00,ʻUqlat as Suqur,عقلة الصقور,1,0,0,1,Uqlat As Suqur,عقلة الصقور,Al Qaseem,القصيم
 2020-07-21 09:00:00,ʻUrayʻirah,عريعرة,0,0,9,-9,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
 2020-07-21 09:00:00,ʻUyun al Jiwaʼ,عيون الجواء,7,0,9,-2,Uyun Al Jiwa,عيون الجواء,Al Qaseem,القصيم
+2020-07-22 09:00:00,ABHA,أبها,52,0,74,-22,Abha,ابها (مقر الإمارة),Aseer,عسير
+2020-07-22 09:00:00,AD͟h D͟hahran,الظهران,28,0,69,-41,Dammam,الدمام,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,AL BAHAH,الباحة,4,1,1,2,Al Bahah,الباحة (مقرالامارة),Al Bahah,الباحة
+2020-07-22 09:00:00,AL MADINAH al MUNAWWARAH,المدينة المنورة,83,1,64,18,Al Madinah Al Munawwarah,المدينة المنورة (مقر الامارة),Al Madinah Al Munawwarah,المدينة المنورة
+2020-07-22 09:00:00,AR RIYAD,الرياض,143,11,234,-102,Ar Riyad,الرياض (مقر الامارة),Ar Riyad,الرياض
+2020-07-22 09:00:00,Abu ʻArish,أبو عريش,15,0,21,-6,Abu Arish,ابو عريش,Jazan,جازان
+2020-07-22 09:00:00,Ad Dammam,الدمام,99,0,355,-256,Dammam,الدمام,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Ad Darb,الدرب,1,0,2,-1,Ad Darb,الدرب,Jazan,جازان
+2020-07-22 09:00:00,Ad Daʼir,الدائر,5,0,2,3,Ad Dair,الدائر,Jazan,جازان
+2020-07-22 09:00:00,Ad Dilam,الدلم,8,0,1,7,Ad Dilam,الدلم,Ar Riyad,الرياض
+2020-07-22 09:00:00,Ad Dirʻiyyah,الدرعية,3,0,0,3,Ad Diriyah,الدرعيه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Ad Duwadimi,الدوادمي,4,0,8,-4,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-07-22 09:00:00,Adam,أضم,5,0,1,4,Adam,أضم,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Adh Dhibiyyah,الذيبية,1,0,1,0,Hafar Al Batin,حفر الباطن,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Ahad Rifaydah,أحد رفيدة,10,0,21,-11,Ahad Rufaydah,احد رفيده,Aseer,عسير
+2020-07-22 09:00:00,Ahad al Musarihah,أحد المسارحة,1,0,1,0,Ahad Al Masarihah,احد المسارحه,Jazan,جازان
+2020-07-22 09:00:00,Al Artawiyyah,الأرطاوية,1,0,0,1,Al Majmaah,المجمعه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Asyah,الأسياح,5,0,0,5,Al Asyah,الأسياح,Al Qaseem,القصيم
+2020-07-22 09:00:00,Al Badaʼiʻ,البدائع,5,0,0,5,Al Badai,البدائع,Al Qaseem,القصيم
+2020-07-22 09:00:00,Al Bashayer,البشائر,1,0,2,-1,Balqarn,بالقرن,Aseer,عسير
+2020-07-22 09:00:00,Al Bijadiyyah,البجادية,6,0,0,6,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Birk,البرك,1,0,0,1,Al Birk,البرك,Aseer,عسير
+2020-07-22 09:00:00,Al Bukayriyyah,البكيرية,7,0,0,7,Al Bukayriyah,البكيريه,Al Qaseem,القصيم
+2020-07-22 09:00:00,Al Farshah,الفرشة,0,0,1,-1,Abha,ابها (مقر الإمارة),Aseer,عسير
+2020-07-22 09:00:00,Al GhAzalah,الغزاله,4,0,1,3,Al Ghazalah,الغزاله,Hail,حائل
+2020-07-22 09:00:00,Al Ghat,الغاط,2,0,0,2,Al Ghat,الغاط,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Gouz,القوز,3,0,5,-2,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Hadithah Border Station,مركز حدود الحديثة,0,0,1,-1,Al Qurayyat,القريات,Al Jawf,الجوف
+2020-07-22 09:00:00,Al Hamnah,الحمنة,0,0,1,-1,Wadi Al Fara,وادي الفرع,Al Madinah Al Munawwarah,المدينة المنورة
+2020-07-22 09:00:00,Al Harajah,الحرجة,0,0,11,-11,Al Harjah,الحرجه,Aseer,عسير
+2020-07-22 09:00:00,Al Hariq,الحريق,3,0,0,3,Al Hariq,الحريق,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Harth,الحرث,0,0,2,-2,Al Harth,الحرث,Jazan,جازان
+2020-07-22 09:00:00,Al Haʼit,الحائط,12,0,7,5,Al Hait,الحائط,Hail,حائل
+2020-07-22 09:00:00,Al Hinakiyyah,الحناكية,2,0,1,1,Al Hinakiyah,الحناكيه,Al Madinah Al Munawwarah,المدينة المنورة
+2020-07-22 09:00:00,Al Hufuf,الهفوف,147,0,173,-26,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Al Jafr,الجفر,18,0,24,-6,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Al Jubayl,الجبيل,8,0,80,-72,Al Jubayl,الجبيل,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Al Kamil,الكامل,3,0,3,0,Al Kamil,الكامل,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Khafji,الخفجي,4,0,7,-3,Al Khafji,الخفجي,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Al Kharj,الخرج,10,0,23,-13,Al Kharj,الخرج,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Khasirah,الخاصرة,1,0,0,1,Al Quwayiyah,القويعيه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Khubar,الخبر,27,0,77,-50,Al Khubar,الخبر,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Al Khurmah,الخرمة,7,0,0,7,Al Khurmah,الخرمة,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Lith,الليث,10,0,4,6,Al Lith,الليث,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Maddah,المضة,7,0,5,2,Tarib,طريب,Aseer,عسير
+2020-07-22 09:00:00,Al Mahani,المحاني,0,0,7,-7,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Majardah,المجاردة,11,0,12,-1,Al Majardah,المجارده,Aseer,عسير
+2020-07-22 09:00:00,Al Majmaʻah,المجمعة,5,0,12,-7,Al Majmaah,المجمعه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Mandaq,المندق,0,0,3,-3,Al Mandaq,المندق,Al Bahah,الباحة
+2020-07-22 09:00:00,Al Midhnab,المذنب,6,0,0,6,Al Midhnab,المذنب,Al Qaseem,القصيم
+2020-07-22 09:00:00,Al Mikhwah,المخواة,1,0,4,-3,Al Mukhwah,المخواه,Al Bahah,الباحة
+2020-07-22 09:00:00,Al Mubarraz,المبرز,129,2,165,-38,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Al Mud͟haylif,المظيلف,9,0,1,8,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Muwassam,الموسم,0,0,1,-1,At Tuwal,الطوال,Jazan,جازان
+2020-07-22 09:00:00,Al Muwayh,المويه,4,0,4,0,Al Muwayh,المويه,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Muzahimiyyah,المزاحمية,2,0,0,2,Al Muzahimiyah,المزاحميه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Qahmah,القحمة,1,0,1,0,Abha,ابها (مقر الإمارة),Aseer,عسير
+2020-07-22 09:00:00,Al Qara,القرى,9,0,7,2,Al Qara,القرى,Al Bahah,الباحة
+2020-07-22 09:00:00,Al Qari',القريع,4,0,7,-3,Maysan,ميسان,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Qatif,القطيف,15,1,123,-109,Al Qatif,القطيف,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Al Qunfudhah,القنفذة,23,0,3,20,Al Qunfudhah,القنفذه,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Qurayyat,القريات,1,0,0,1,Al Qurayyat,القريات,Al Jawf,الجوف
+2020-07-22 09:00:00,Al Quwayʻiyyah,القويعية,2,0,0,2,Al Quwayiyah,القويعيه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Al Sehen,السحن,6,0,11,-5,Maysan,ميسان,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Al Wajh,الوجه,4,0,1,3,Al Wajh,الوجه,Tabuk,تبوك
+2020-07-22 09:00:00,Al ʻAqiq,العقيق,0,0,2,-2,Al Aqiq,العقيق,Al Bahah,الباحة
+2020-07-22 09:00:00,Al ʻAridah,العارضة,4,0,0,4,Al Aridah,العارضه,Jazan,جازان
+2020-07-22 09:00:00,Al ʻIdabi,العيدابي,2,0,19,-17,Al Aydabi,العيدابى,Jazan,جازان
+2020-07-22 09:00:00,Al ʻIs,العيص,0,0,1,-1,Al Is,العيص,Al Madinah Al Munawwarah,المدينة المنورة
+2020-07-22 09:00:00,Al ʻUla,العلا,4,0,6,-2,Al Ula,العلا,Al Madinah Al Munawwarah,المدينة المنورة
+2020-07-22 09:00:00,Al ʻUyun,العيون,7,0,6,1,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,An Namas,النماص,6,0,7,-1,An Namas,النماص,Aseer,عسير
+2020-07-22 09:00:00,An Nuʻayriyyah,النعيرية,4,0,29,-25,Al Nuayriyah,النعيريه,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Ar Rass,الرس,13,0,2,11,Ar Rass,الرس,Al Qaseem,القصيم
+2020-07-22 09:00:00,Ar Rayn,الرين,1,0,0,1,Ar Rayn,الرين,Ar Riyad,الرياض
+2020-07-22 09:00:00,Ar Rayth,الريث,3,0,0,3,Ar Rayth,الريث,Jazan,جازان
+2020-07-22 09:00:00,Ar Ruwaydah,الرويضة,2,0,1,1,Al Quwayiyah,القويعيه,Ar Riyad,الرياض
+2020-07-22 09:00:00,As Sulaymi,السليمي,2,0,0,2,As Sulaymi,السليمي,Hail,حائل
+2020-07-22 09:00:00,As Sulayyil,السليل,1,0,5,-4,As Sulayyil,السليل,Ar Riyad,الرياض
+2020-07-22 09:00:00,Ash Shamli,الشملي,15,0,0,15,Ash Shamli,الشملى,Hail,حائل
+2020-07-22 09:00:00,Ash Shinan,الشنان,1,0,0,1,Ash Shinan,الشنان,Hail,حائل
+2020-07-22 09:00:00,At Taʼif,الطائف,97,0,127,-30,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,At Tuwal,الطوال,5,0,1,4,At Tuwal,الطوال,Jazan,جازان
+2020-07-22 09:00:00,Az Zulfi,الزلفي,3,0,5,-2,Az Zulfi,الزلفى,Ar Riyad,الرياض
+2020-07-22 09:00:00,BURAYDAH,بريدة,84,0,2,82,Buraydah,بريده (مقرالامارة),Al Qaseem,القصيم
+2020-07-22 09:00:00,Badr al Janub,بدر الجنوب,0,0,2,-2,Badr Al Janub,بدر الجنوب,Najran,نجران
+2020-07-22 09:00:00,Baqʻaʼ,بقعاء,10,0,12,-2,Baqa,بقعاء,Hail,حائل
+2020-07-22 09:00:00,Bariq,بارق,1,0,1,0,Bariq,بارق,Aseer,عسير
+2020-07-22 09:00:00,Bathaʼ,بطحاء,1,0,4,-3,Al Udayd,العديد,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Baysh,بيش,21,0,21,0,Baysh,بيش,Jazan,جازان
+2020-07-22 09:00:00,Biljurashi,بلجرشي,8,0,4,4,Biljurashi,بلجرشي,Al Bahah,الباحة
+2020-07-22 09:00:00,Billasmar,بللسمر,9,0,22,-13,Abha,ابها (مقر الإمارة),Aseer,عسير
+2020-07-22 09:00:00,Bishah,بيشة,9,1,13,-5,Bishah,بيشه,Aseer,عسير
+2020-07-22 09:00:00,Buqayq,بقيق,6,0,16,-10,Buqayq,بقيق,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Dariyyah,ضرية,0,0,1,-1,Dariyah,ضريه,Al Qaseem,القصيم
+2020-07-22 09:00:00,Dawmat al Jandal,دومة الجندل,4,0,0,4,Dawamat Al Jandal,دومة الجندل,Al Jawf,الجوف
+2020-07-22 09:00:00,Duba,ضبا,5,0,1,4,Duba,ضباء,Tabuk,تبوك
+2020-07-22 09:00:00,Duruma,ضرما,2,0,4,-2,Duruma,ضرما,Ar Riyad,الرياض
+2020-07-22 09:00:00,D͟hahran al Janub,ظهران الجنوب,1,0,8,-7,Zahran Al Janub,ظهران الجنوب,Aseer,عسير
+2020-07-22 09:00:00,Farasan,فرسان,1,0,0,1,Farasan,فرسان,Jazan,جازان
+2020-07-22 09:00:00,Fayfa,فيفا,5,0,0,5,Fayfa,فيفا,Jazan,جازان
+2020-07-22 09:00:00,HAʼIL,حائل,60,2,129,-71,Hail,حائل(مقر الامارة),Hail,حائل
+2020-07-22 09:00:00,Hafar al Batin,حفر الباطن,76,1,50,25,Hafar Al Batin,حفر الباطن,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Haql,حقل,0,0,1,-1,Haqil,حقل,Tabuk,تبوك
+2020-07-22 09:00:00,Hawtat Bani Tamim,حوطة بني تميم,2,0,3,-1,Hawtat Bani Tamim,حوطه بنى تميم,Ar Riyad,الرياض
+2020-07-22 09:00:00,Hawtat Sudayr,حوطة سدير,0,1,0,-1,Al Majmaah,المجمعه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Hubuna,حبونا,1,0,7,-6,Hubuna,حبونا,Najran,نجران
+2020-07-22 09:00:00,Huraymilaʼ,حريملاء,7,0,0,7,Huraymila,حريملاء,Ar Riyad,الرياض
+2020-07-22 09:00:00,JAZAN,جازان,67,0,46,21,Jazan,جازان (مقر الامارة),Jazan,جازان
+2020-07-22 09:00:00,Jeddah,جدة,62,8,226,-172,Jiddah,جدة,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Judayyidat ʻarʻar,جديدة عرعر,0,0,2,-2,Arar,عرعر (مقر الامارة),Northern Borders,الحدود الشماليه
+2020-07-22 09:00:00,Khamis Mushayt,خميس مشيط,77,0,79,-2,Khamis Mushayt,خميس  مشيط,Aseer,عسير
+2020-07-22 09:00:00,Khubash,خباش,0,0,1,-1,Khubash,خباش,Najran,نجران
+2020-07-22 09:00:00,Khulays,خليص,6,0,9,-3,Khulays,خليص,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Laylá,ليلى,10,0,0,10,Al Aflaj,الافلاج,Ar Riyad,الرياض
+2020-07-22 09:00:00,MAKKAH al MUKARRAMAH,مكة المكرمة,119,3,93,23,Makkah Al Mukarramah,مكة المكرمة (مقر الإمارة),Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Mahayil,محايل,11,1,30,-20,Muhayil,محايل,Aseer,عسير
+2020-07-22 09:00:00,Mawqaq,موقق,6,0,2,4,Mawqaq,موقق,Hail,حائل
+2020-07-22 09:00:00,Maysan,ميسان,1,0,5,-4,Maysan,ميسان,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Mihd  adh Dhahab,مهد الذهب,0,0,2,-2,Al Mahd,المهد,Al Madinah Al Munawwarah,المدينة المنورة
+2020-07-22 09:00:00,Mulayjah,مليجة,4,0,4,0,Al Nuayriyah,النعيريه,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,NAJRAN,نجران,26,0,69,-43,Najran,نجران (مقر الامارة),Najran,نجران
+2020-07-22 09:00:00,Nifi,نفي,1,0,0,1,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-07-22 09:00:00,Numarah,نمرة,1,0,1,0,Al Ardiyat,العرضيات,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Qaryat Al 'ulya,قرية العليا,0,0,3,-3,Qaryah Al Ulya,قريه العليا,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Qilwah,قلوة,2,0,1,1,Qilwah,قلوه,Al Bahah,الباحة
+2020-07-22 09:00:00,Qiya,قيا,3,0,2,1,Al Taif,الطائف,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Qusaybaʼ,قصيباء,1,0,1,0,Buraydah,بريده (مقرالامارة),Al Qaseem,القصيم
+2020-07-22 09:00:00,Rafa'i' Al Jamsh,رفائع الجمش,0,0,2,-2,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-07-22 09:00:00,Rafha,رفحا,3,0,0,3,Rafha,رفحاء,Northern Borders,الحدود الشماليه
+2020-07-22 09:00:00,Ranyah,رنية,7,0,11,-4,Ranyah,رنيه,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Ras Tannurah,راس تنورة,8,0,29,-21,Ras Tannurah,رأس تنوره,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Rijal Al Ma,رجال المع,2,1,4,-3,Rijal Al Ma,رجال المع,Aseer,عسير
+2020-07-22 09:00:00,Riyad al Khabraʼ,رياض الخبراء,0,0,6,-6,Riyadh Al Khabra,رياض الخبراء,Al Qaseem,القصيم
+2020-07-22 09:00:00,Rumah,رماح,3,0,2,1,Rumah,رماح,Ar Riyad,الرياض
+2020-07-22 09:00:00,SIKAKA,سكاكا,22,0,14,8,Sakaka,سكاكا (مقر الامارة),Al Jawf,الجوف
+2020-07-22 09:00:00,Sabt al ʻAlayah,سبت العلاية,34,0,34,0,Balqarn,بالقرن,Aseer,عسير
+2020-07-22 09:00:00,Sabya,صبيا,13,0,8,5,Sabya,صبياء,Jazan,جازان
+2020-07-22 09:00:00,Safwá,صفوى,11,0,21,-10,Al Qatif,القطيف,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Sajir,ساجر,6,0,2,4,Ad Duwadimi,الدوادمى,Ar Riyad,الرياض
+2020-07-22 09:00:00,Salwá,سلوى,0,0,1,-1,Al Udayd,العديد,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,Samiraʼ,سميراء,1,0,2,-1,Simira,سميراء,Hail,حائل
+2020-07-22 09:00:00,Samtah,صامطة,15,0,20,-5,Samtah,صامطة,Jazan,جازان
+2020-07-22 09:00:00,Sarat ʻAbidah,سراة عبيدة,1,0,3,-2,Sarat Abidah,سراة عبيده,Aseer,عسير
+2020-07-22 09:00:00,Shaqraʼ,شقراء,4,0,6,-2,Shaqra,شقراء,Ar Riyad,الرياض
+2020-07-22 09:00:00,Sharurah,شرورة,26,0,10,16,Sharurah,شروره,Najran,نجران
+2020-07-22 09:00:00,TABUK,تبوك,34,0,42,-8,Tabuk,تبوك (مقرالامارة),Tabuk,تبوك
+2020-07-22 09:00:00,Tabalah,تبالة,6,0,2,4,Bishah,بيشه,Aseer,عسير
+2020-07-22 09:00:00,Tabarjal,طبرجل,1,0,1,0,Tubarjal,طبرجل,Al Jawf,الجوف
+2020-07-22 09:00:00,Tanumah,تنومة,16,0,1,15,Tanumah,تنومة,Aseer,عسير
+2020-07-22 09:00:00,Tathlith,تثليث,10,0,8,2,Tathlith,تثليث,Aseer,عسير
+2020-07-22 09:00:00,Thadiq,ثادق,1,0,0,1,Thadiq,ثادق,Ar Riyad,الرياض
+2020-07-22 09:00:00,Thar,ثار,0,0,1,-1,Thar,ثار,Najran,نجران
+2020-07-22 09:00:00,Thurayban,ثريبان,0,0,1,-1,Al Ardiyat,العرضيات,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Tumayr,تمير,2,0,1,1,Al Majmaah,المجمعه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Turayf,طريف,4,0,0,4,Turayf,طريف,Northern Borders,الحدود الشماليه
+2020-07-22 09:00:00,Turuba,تربة,14,0,4,10,Turubah,تربه,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Umlujj,أملج,2,0,1,1,Umluj,املج,Tabuk,تبوك
+2020-07-22 09:00:00,Umm Ad Dawm,أم الدوم,0,0,5,-5,Al Muwayh,المويه,Makkah Al Mukarramah,مكة المكرمة
+2020-07-22 09:00:00,Wadi Ad Dawasir,وادي الدواسر,13,0,22,-9,Wadi Ad Dawasir,وادى الدواسر,Ar Riyad,الرياض
+2020-07-22 09:00:00,Wadi Ibn Hashbal,وادي بن هشبل,3,0,7,-4,Abha,ابها (مقر الإمارة),Aseer,عسير
+2020-07-22 09:00:00,Wuthaylan,وثيلان,0,0,1,-1,Al Quwayiyah,القويعيه,Ar Riyad,الرياض
+2020-07-22 09:00:00,Yadamah,يدمة,0,0,8,-8,Yadamah,يدمه,Najran,نجران
+2020-07-22 09:00:00,Yanbuʻ,ينبع,61,0,39,22,Yanbu,ينبع,Al Madinah Al Munawwarah,المدينة المنورة
+2020-07-22 09:00:00,ʻARʻAR,عرعر,6,0,19,-13,Arar,عرعر (مقر الامارة),Northern Borders,الحدود الشماليه
+2020-07-22 09:00:00,ʻAfif,عفيف,13,0,1,12,Afif,عفيف,Ar Riyad,الرياض
+2020-07-22 09:00:00,ʻUnayzah,عنيزة,11,0,10,1,Unayzah,عنيزه,Al Qaseem,القصيم
+2020-07-22 09:00:00,ʻUrayʻirah,عريعرة,3,0,8,-5,Al Ahsa,الاحساء,Eastern Region,المنطقة الشرقية
+2020-07-22 09:00:00,ʻUyun al Jiwaʼ,عيون الجواء,14,0,2,12,Uyun Al Jiwa,عيون الجواء,Al Qaseem,القصيم
